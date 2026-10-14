@@ -250,6 +250,18 @@ globalThis.TRA_CATALOG = (() => {
         ['12:30–17:00','Trở về điểm hẹn','Tiếp tục chặng về với quỹ thời gian đệm; kết thúc vòng cung tại trung tâm Thái Nguyên.']
       ])],includedExtra:['04 đêm lưu trú: 02 Ngân Sơn, 02 Ba Bể.','Buổi thưởng trà, dẫn đường Sam Chiêm/rừng trúc và trung chuyển tiêu chuẩn theo tuyến được xác nhận.','01 chuyến thuyền hồ Ba Bể cơ bản cho đoàn, có áo phao.'],excludedExtra:['Hang Thẳm Phầy, camping qua đêm, SUP/kayak, hoạt động kỹ thuật, dịch vụ chụp ảnh riêng.'],lodging:'Hai cơ sở lưu trú, mỗi nơi 02 đêm; loại phòng và tiện nghi cần chốt bằng văn bản trước khi bán.',food:'04 bữa sáng và 09 bữa chính; đổi thực đơn giữa các ngày, báo trước ăn chay/dị ứng.',notes:['Không ghép toàn bộ 13 điểm vào một chuyến năm ngày; ưu tiên chất lượng thời gian tại từng cụm.','Chặng cuối có thể kết thúc muộn do điều kiện đường; không hẹn chuyến bay sát giờ trả khách.'],weatherPlan:'Nếu Sam Chiêm/rừng trúc không tiếp cận được, lùi giờ hoặc bỏ điểm sau khi trao đổi với đoàn; lịch nghỉ và thuyền cũng điều chỉnh theo điều kiện thực tế, đối soát dịch vụ thay thế.'}
   ];
-  const tours=list.map(t=>({...common,...t,nights:t.days-1,tag:t.tags[0],places:t.destinationIds.map(id=>places.find(p=>p.id===id).name),itinerary:t.itinerary.map((d,i)=>({...d,day:i+1})),included:[...common.included,...t.includedExtra],excluded:[...common.excluded,...t.excludedExtra],packing:[...common.packing,...(t.packingExtra||[])],sourceIds:[...new Set(t.destinationIds.flatMap(id=>places.find(p=>p.id===id).sourceIds))]}));
+  const photo=(file,caption)=>({image:'tours/'+file,caption});
+  const photos={
+    tea:photo('doi-che-tan-cuong.jpg','Ảnh minh họa đồi chè cho hành trình Tân Cương · Bộ ảnh chủ website cung cấp.'),
+    atk:photo('atk-dinh-hoa.jpg','ATK Định Hóa · Bộ ảnh chủ website cung cấp.'),
+    nuiCoc:photo('ho-nui-coc.jpg','Ảnh minh họa cảnh hồ cho hành trình Núi Cốc · Bộ ảnh chủ website cung cấp.'),
+    baBe:photo('ho-ba-be.jpg','Hồ Ba Bể · Bộ ảnh chủ website cung cấp.'),
+    stream:photo('suoi-cua-tu.jpg','Ảnh minh họa trải nghiệm suối cho hành trình Cửa Tử · Bộ ảnh chủ website cung cấp.'),
+    waterfall:photo('thac-khuon-tat.jpg','Thác Khuôn Tát · Bộ ảnh chủ website cung cấp.'),
+    prairie:photo('thao-nguyen-sam-chiem.jpg','Thảo nguyên Sam Chiêm · Bộ ảnh chủ website cung cấp.'),
+    stay:photo('nha-san-minh-hoa.png','Ảnh minh họa không gian nhà sàn, chưa xác định địa điểm; không phải cơ sở lưu trú đã xác nhận trong tour.')
+  };
+  const tourPhotos={TJ01:['tea','nuiCoc'],TJ02:['tea'],TJ03:['atk','waterfall'],TJ04:['stay'],TJ05:['stream','nuiCoc','tea'],TJ06:['baBe'],TJ07:['prairie'],TJ08:['baBe'],TJ09:['waterfall','atk','tea','baBe'],TJ10:['prairie','tea','baBe']};
+  const tours=list.map(t=>{const gallery=tourPhotos[t.code].map(key=>photos[key]);return {...common,...t,image:gallery[0].image,imageCaption:gallery[0].caption,gallery,nights:t.days-1,tag:t.tags[0],places:t.destinationIds.map(id=>places.find(p=>p.id===id).name),itinerary:t.itinerary.map((d,i)=>({...d,day:i+1})),included:[...common.included,...t.includedExtra],excluded:[...common.excluded,...t.excludedExtra],packing:[...common.packing,...(t.packingExtra||[])],sourceIds:[...new Set(t.destinationIds.flatMap(id=>places.find(p=>p.id===id).sourceIds))]};});
   return {schemaVersion:1,updatedAt:'2026-10-14',editorialNote:'10 tour do Trà Journey biên soạn. Nguồn dùng để đối chiếu điểm đến; tên tour, giờ, giá, dịch vụ và phối tuyến là đề xuất biên tập, chưa được nhà cung cấp xác nhận.',sources,places,common,tours};
 })();

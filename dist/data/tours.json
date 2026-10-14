@@ -265,8 +265,8 @@
         "Gia đình"
       ],
       "label": "LẦN ĐẦU ĐẾN MIỀN TRÀ",
-      "image": "tea.jpg",
-      "imageCaption": "Đồi chè Tân Cương · Ảnh nguồn cổng du lịch Thái Nguyên",
+      "image": "tours/doi-che-tan-cuong.jpg",
+      "imageCaption": "Ảnh minh họa đồi chè cho hành trình Tân Cương · Bộ ảnh chủ website cung cấp.",
       "summary": "Buổi sáng theo hương trà trên những triền đồi, buổi chiều thả nhịp sống chậm bên hồ Núi Cốc.",
       "description": "Một ngày vừa đủ để làm quen với hai sắc thái của miền trà: gần gũi trong câu chuyện người làm chè và khoáng đạt giữa không gian mặt hồ. Chuyến đi ưu tiên thưởng thức, trò chuyện và những khoảng nghỉ, phù hợp để mở đầu bộ sưu tập kỷ niệm Thái Nguyên của bạn.",
       "audience": "Khách lần đầu đến Thái Nguyên, cặp đôi, gia đình có khả năng đi bộ nhẹ; nhóm bạn muốn đi về trong ngày.",
@@ -329,6 +329,16 @@
         "Nếu đi thuyền: mặc áo phao, tuân thủ sức chứa và hướng dẫn của người vận hành."
       ],
       "weatherPlan": "Nếu mưa, ưu tiên không gian thưởng trà trong nhà, giảm phần đi đồi; bỏ thuyền khi thời tiết không phù hợp, điều chỉnh thời gian ven hồ.",
+      "gallery": [
+        {
+          "image": "tours/doi-che-tan-cuong.jpg",
+          "caption": "Ảnh minh họa đồi chè cho hành trình Tân Cương · Bộ ảnh chủ website cung cấp."
+        },
+        {
+          "image": "tours/ho-nui-coc.jpg",
+          "caption": "Ảnh minh họa cảnh hồ cho hành trình Núi Cốc · Bộ ảnh chủ website cung cấp."
+        }
+      ],
       "nights": 0,
       "tag": "Thiên nhiên",
       "places": [
@@ -397,8 +407,8 @@
         "Thiên nhiên"
       ],
       "label": "MỘT NGÀY BÊN NHAU",
-      "image": "tea.jpg",
-      "imageCaption": "Ảnh Tân Cương, điểm dừng buổi sáng của tour; chưa có ảnh Hồ Ghềnh Chè.",
+      "image": "tours/doi-che-tan-cuong.jpg",
+      "imageCaption": "Ảnh minh họa đồi chè cho hành trình Tân Cương · Bộ ảnh chủ website cung cấp.",
       "summary": "Một chuyến đi ít vội vã: thưởng trà buổi sớm, ăn trưa cùng nhau rồi tận hưởng buổi picnic nhìn ra hồ.",
       "description": "Không đặt mục tiêu đi thật nhiều, hành trình này dành phần lớn buổi chiều cho cả nhóm ở cạnh nhau. Sau sắc xanh của đồi chè là một điểm dã ngoại ven Ghềnh Chè, nơi bạn có thể đọc sách, chụp ảnh gia đình hoặc đơn giản ngồi nghe gió. Picnic được tổ chức tại khu vực có dịch vụ và được phép đón khách.",
       "audience": "Gia đình, nhóm bạn và nhóm đồng nghiệp thích thư giãn; không yêu cầu kinh nghiệm trekking.",
@@ -467,6 +477,12 @@
         "Chỉ sử dụng khu picnic khi chủ điểm đồng ý; không đốt lửa trên thảm cỏ."
       ],
       "weatherPlan": "Chuyển picnic sang khu có mái che nếu cơ sở đáp ứng. Dông gió mạnh: chuyển sang trải nghiệm trà trong nhà hoặc đổi ngày sau khi thống nhất với khách.",
+      "gallery": [
+        {
+          "image": "tours/doi-che-tan-cuong.jpg",
+          "caption": "Ảnh minh họa đồi chè cho hành trình Tân Cương · Bộ ảnh chủ website cung cấp."
+        }
+      ],
       "nights": 0,
       "tag": "Gia đình",
       "places": [
@@ -533,8 +549,8 @@
         "Thiên nhiên"
       ],
       "label": "DẤU ẤN LỊCH SỬ",
-      "image": "heritage.svg",
-      "imageCaption": "Minh họa chủ đề về nguồn; không phải ảnh di tích.",
+      "image": "tours/atk-dinh-hoa.jpg",
+      "imageCaption": "ATK Định Hóa · Bộ ảnh chủ website cung cấp.",
       "summary": "Lắng nghe câu chuyện lịch sử tại ATK Định Hóa, rồi dành một khoảng lặng bên cảnh sắc Khuôn Tát.",
       "description": "Hành trình có nhịp đi trang trọng vào buổi sáng và nhẹ nhàng vào buổi chiều. Thay vì chạy qua nhiều di tích, đoàn tập trung một số điểm trong cụm ATK để nghe thuyết minh, đặt câu hỏi và kết nối kiến thức; phần thác là điểm thư giãn, không tổ chức leo các tầng cao hay tắm thác.",
       "audience": "Nhóm yêu lịch sử, gia đình có trẻ lớn, đoàn học tập trải nghiệm; chương trình học sinh cần điều chỉnh quản lý và giá riêng.",
@@ -597,6 +613,16 @@
         "Không xuống nước hoặc trèo lên các tầng thác."
       ],
       "weatherPlan": "Nếu đường vào thác trơn hoặc nước lớn, bỏ điểm thác và kéo dài nội dung tại không gian trưng bày ATK nếu mở cửa; thông báo thay đổi trước khi di chuyển.",
+      "gallery": [
+        {
+          "image": "tours/atk-dinh-hoa.jpg",
+          "caption": "ATK Định Hóa · Bộ ảnh chủ website cung cấp."
+        },
+        {
+          "image": "tours/thac-khuon-tat.jpg",
+          "caption": "Thác Khuôn Tát · Bộ ảnh chủ website cung cấp."
+        }
+      ],
       "nights": 0,
       "tag": "Văn hóa",
       "places": [
@@ -665,8 +691,8 @@
         "Thiên nhiên"
       ],
       "label": "CÂU CHUYỆN TRONG LÒNG NÚI",
-      "image": "cave.svg",
-      "imageCaption": "Minh họa chủ đề hang động; không phải ảnh hang Phượng Hoàng.",
+      "image": "tours/nha-san-minh-hoa.png",
+      "imageCaption": "Ảnh minh họa không gian nhà sàn, chưa xác định địa điểm; không phải cơ sở lưu trú đã xác nhận trong tour.",
       "summary": "Từ không gian tĩnh tại của Chùa Hang đến hành trình khám phá Phượng Hoàng và một đêm nghỉ ở vùng Võ Nhai.",
       "description": "Chuyến đi kết hợp văn hóa và vận động vừa phải, với khoảng đệm đủ dài cho đường lên hang. Buổi tối nghỉ tại cơ sở địa phương mang lại thời gian cảm nhận nhịp sống vùng núi. Các hoạt động giao lưu chỉ tổ chức khi chủ nhà và cộng đồng đồng ý, không xem sinh hoạt của người dân là một tiết mục mặc định.",
       "audience": "Nhóm bạn, cặp đôi thích hang động và văn hóa; khách có thể đi bộ lên xuống dốc.",
@@ -767,6 +793,12 @@
         "Không đồng nhất tham quan hang Phượng Hoàng với tự thám hiểm hang nước Mỏ Gà."
       ],
       "weatherPlan": "Nếu hang đóng hoặc đường trơn, thay bằng trải nghiệm tại cơ sở cộng đồng và không gian tham quan được phép; thông báo trước và đối soát phần dịch vụ thay đổi.",
+      "gallery": [
+        {
+          "image": "tours/nha-san-minh-hoa.png",
+          "caption": "Ảnh minh họa không gian nhà sàn, chưa xác định địa điểm; không phải cơ sở lưu trú đã xác nhận trong tour."
+        }
+      ],
       "nights": 1,
       "tag": "Văn hóa",
       "places": [
@@ -838,8 +870,8 @@
         "Khám phá"
       ],
       "label": "BƯỚC CHÂN VỀ RỪNG",
-      "image": "lake.jpg",
-      "imageCaption": "Hồ Núi Cốc · Điểm dừng ngày thứ hai của tour.",
+      "image": "tours/suoi-cua-tu.jpg",
+      "imageCaption": "Ảnh minh họa trải nghiệm suối cho hành trình Cửa Tử · Bộ ảnh chủ website cung cấp.",
       "summary": "Một ngày đi rừng theo tuyến Cửa Tử cơ bản, một ngày hồi phục bên hồ và những đồi chè.",
       "description": "Hành trình dành cho người muốn vận động nhưng vẫn có một ngày cuối thật thư thả. Cửa Tử được bố trí riêng một ngày để kiểm tra điều kiện, đi theo nhịp đoàn và quay về sớm. Tour không hứa chinh phục bảy cửa, không mặc định có nhảy thác, trượt máng hay vượt dây; giới hạn tuyến do người hướng dẫn chuyên môn quyết định.",
       "audience": "Người lớn có thể lực phù hợp, quen đi bộ ngoài trời; người mới cần trao đổi khả năng vận động với đơn vị tổ chức.",
@@ -949,6 +981,20 @@
         "Không khởi hành khi có cảnh báo mưa lớn/lũ hoặc khi người dẫn đường đánh giá tuyến không phù hợp."
       ],
       "weatherPlan": "Hoãn phần trekking hoặc chuyển toàn chương trình sang hồ–trà và hoạt động trong nhà sau khi khách đồng ý; không cố thay bằng một suối khác cùng điều kiện nguy hiểm.",
+      "gallery": [
+        {
+          "image": "tours/suoi-cua-tu.jpg",
+          "caption": "Ảnh minh họa trải nghiệm suối cho hành trình Cửa Tử · Bộ ảnh chủ website cung cấp."
+        },
+        {
+          "image": "tours/ho-nui-coc.jpg",
+          "caption": "Ảnh minh họa cảnh hồ cho hành trình Núi Cốc · Bộ ảnh chủ website cung cấp."
+        },
+        {
+          "image": "tours/doi-che-tan-cuong.jpg",
+          "caption": "Ảnh minh họa đồi chè cho hành trình Tân Cương · Bộ ảnh chủ website cung cấp."
+        }
+      ],
       "nights": 1,
       "tag": "Trekking",
       "places": [
@@ -1020,8 +1066,8 @@
         "Văn hóa"
       ],
       "label": "Ở LẠI GIỮA MIỀN XANH",
-      "image": "lake-art.svg",
-      "imageCaption": "Minh họa chủ đề hồ và rừng; không phải ảnh Hồ Ba Bể.",
+      "image": "tours/ho-ba-be.jpg",
+      "imageCaption": "Hồ Ba Bể · Bộ ảnh chủ website cung cấp.",
       "summary": "Đi giữa rừng trúc Yến Dương, dành một ngày trọn vẹn cho Ba Bể và hai đêm nghỉ trong nhịp sống bản làng.",
       "description": "Một hành trình ưu tiên chiều sâu và khoảng nghỉ: không vừa chạy đường dài vừa nhồi thêm hang động trong ngày. Ba Bể có riêng một ngày để đi thuyền, ngắm núi và nghỉ ở homestay. Rừng trúc là trải nghiệm đi bộ có độ dốc, được tổ chức theo sức của đoàn chứ không mặc định là lối dạo bằng phẳng.",
       "audience": "Cặp đôi, nhóm bạn yêu thiên nhiên; gia đình có thành viên đi bộ dốc được, muốn nghỉ hai đêm cùng một nơi.",
@@ -1155,6 +1201,12 @@
         "Mặc áo phao suốt chuyến thuyền; không tự bơi giữa hồ."
       ],
       "weatherPlan": "Nếu không thể đi rừng trúc, ưu tiên hoạt động tại nơi nghỉ; nếu tàu dừng do thời tiết, thay bằng nội dung văn hóa trong nhà hoặc đổi ngày, không bảo đảm vẫn thực hiện đủ tuyến.",
+      "gallery": [
+        {
+          "image": "tours/ho-ba-be.jpg",
+          "caption": "Hồ Ba Bể · Bộ ảnh chủ website cung cấp."
+        }
+      ],
       "nights": 2,
       "tag": "Nghỉ dưỡng",
       "places": [
@@ -1223,8 +1275,8 @@
         "Khám phá"
       ],
       "label": "HẸN VỚI KHOẢNG TRỜI RỘNG",
-      "image": "prairie.svg",
-      "imageCaption": "Minh họa chủ đề thảo nguyên và mặt hồ; không phải ảnh điểm đến.",
+      "image": "tours/thao-nguyen-sam-chiem.jpg",
+      "imageCaption": "Thảo nguyên Sam Chiêm · Bộ ảnh chủ website cung cấp.",
       "summary": "Một buổi chiều trên những triền cỏ Sam Chiêm, một buổi sáng nhìn mặt hồ Bản Chang giữa không gian vùng cao.",
       "description": "Tour dành cho những người thích mang về một bộ ảnh và cảm giác thoáng đãng. Sam Chiêm được ghép với Bản Chang theo khu vực Ngân Sơn, tránh kéo thêm chặng Ba Bể trong chuyến hai ngày. Đoàn nghỉ tại cơ sở lưu trú, không mặc định cắm trại qua đêm ở nơi chưa xác nhận dịch vụ và quyền tiếp cận.",
       "audience": "Nhóm bạn, người thích ảnh phong cảnh và đi bộ ngoài trời; không phù hợp lịch trình cần tiếp cận hoàn toàn bằng xe lớn.",
@@ -1320,6 +1372,12 @@
         "Bản Chang là hồ thủy lợi; không mặc định có dịch vụ vui chơi dưới nước."
       ],
       "weatherPlan": "Nếu đường Sam Chiêm không tiếp cận được, đổi ngày là ưu tiên; có thể giữ tuyến Bản Chang và chương trình nghỉ tại cơ sở khi khách đồng ý, không thay bằng cung đường chưa khảo sát.",
+      "gallery": [
+        {
+          "image": "tours/thao-nguyen-sam-chiem.jpg",
+          "caption": "Thảo nguyên Sam Chiêm · Bộ ảnh chủ website cung cấp."
+        }
+      ],
       "nights": 1,
       "tag": "Thiên nhiên",
       "places": [
@@ -1391,8 +1449,8 @@
         "Thiên nhiên"
       ],
       "label": "HÀNH TRÌNH CÓ CHUYÊN GIA",
-      "image": "cave.svg",
-      "imageCaption": "Minh họa chủ đề hang nước; không phải ảnh Hang Thẳm Phầy.",
+      "image": "tours/ho-ba-be.jpg",
+      "imageCaption": "Hồ Ba Bể · Bộ ảnh chủ website cung cấp.",
       "summary": "Một chiều làm quen Ba Bể, một ngày dành trọn cho tuyến hang Thẳm Phầy có tổ chức, một buổi sáng để hồi phục.",
       "description": "Đây là tour khám phá chuyên biệt, không phải một điểm tham quan thêm vào lịch nghỉ dưỡng. Hoạt động hang chỉ đưa vào vận hành khi đơn vị chuyên môn xác nhận được phép khai thác, điều kiện nước, trang bị và nhân sự. Khung ngày hai dành riêng cho hành trình vào–ra, thời gian cụ thể phụ thuộc tuyến được duyệt; không cam kết đi hết chiều dài hang.",
       "audience": "Người lớn có thể lực tốt và đáp ứng yêu cầu của đơn vị khai thác hang; cần trao đổi trước về khả năng đi địa hình ướt và vận động kéo dài.",
@@ -1535,6 +1593,12 @@
         "Không tự vào hang nước; thực hiện sàng lọc, yêu cầu bảo hiểm và cứu hộ theo đơn vị vận hành."
       ],
       "weatherPlan": "Hủy/hoãn phần hang khi điều kiện không phù hợp. Khách chọn đổi ngày hoặc chương trình nghỉ dưỡng Ba Bể được báo lại giá; không quảng cáo một tuyến hang khác là thay thế tương đương khi chưa đánh giá.",
+      "gallery": [
+        {
+          "image": "tours/ho-ba-be.jpg",
+          "caption": "Hồ Ba Bể · Bộ ảnh chủ website cung cấp."
+        }
+      ],
       "nights": 2,
       "tag": "Khám phá",
       "places": [
@@ -1606,8 +1670,8 @@
         "Nghỉ dưỡng"
       ],
       "label": "MỘT DẢI KÝ ỨC XANH",
-      "image": "tea.jpg",
-      "imageCaption": "Đồi chè Tân Cương · Điểm mở đầu hành trình.",
+      "image": "tours/thac-khuon-tat.jpg",
+      "imageCaption": "Thác Khuôn Tát · Bộ ảnh chủ website cung cấp.",
       "summary": "Bốn ngày nối hương trà, dấu ấn ATK, thác Khuôn Tát và không gian hồ–rừng trúc ở phía Bắc.",
       "description": "Tour dành cho người muốn cảm nhận nhiều lớp của Thái Nguyên nhưng không muốn mỗi ngày thay một chỗ ngủ. Tuyến nghỉ một đêm tại Định Hóa và hai đêm ở Ba Bể; ngày chuyển vùng có buổi sáng ngắn và phần đường dài được dành riêng. Lịch trình cân bằng câu chuyện lịch sử với những khoảng xanh để nghỉ ngơi.",
       "audience": "Nhóm gia đình có thể đi bộ dốc nhẹ, nhóm bạn thích văn hóa và thiên nhiên; phù hợp khách có bốn ngày trọn vẹn.",
@@ -1772,6 +1836,24 @@
         "Ngày cuối cần xuất phát sớm; khách cần chuyến bay/tàu nối tiếp nên dành đệm riêng."
       ],
       "weatherPlan": "Bỏ thác/rừng trúc khi không phù hợp, thay bằng thời gian nghỉ và nội dung trong nhà có thể xác nhận. Chuyến thuyền chỉ thực hiện khi được phép hoạt động.",
+      "gallery": [
+        {
+          "image": "tours/thac-khuon-tat.jpg",
+          "caption": "Thác Khuôn Tát · Bộ ảnh chủ website cung cấp."
+        },
+        {
+          "image": "tours/atk-dinh-hoa.jpg",
+          "caption": "ATK Định Hóa · Bộ ảnh chủ website cung cấp."
+        },
+        {
+          "image": "tours/doi-che-tan-cuong.jpg",
+          "caption": "Ảnh minh họa đồi chè cho hành trình Tân Cương · Bộ ảnh chủ website cung cấp."
+        },
+        {
+          "image": "tours/ho-ba-be.jpg",
+          "caption": "Hồ Ba Bể · Bộ ảnh chủ website cung cấp."
+        }
+      ],
       "nights": 3,
       "tag": "Văn hóa",
       "places": [
@@ -1850,8 +1932,8 @@
         "Khám phá"
       ],
       "label": "CHUYẾN ĐI ĐỂ NHỚ",
-      "image": "prairie.svg",
-      "imageCaption": "Minh họa chủ đề vòng cung miền xanh; không phải ảnh điểm đến.",
+      "image": "tours/thao-nguyen-sam-chiem.jpg",
+      "imageCaption": "Thảo nguyên Sam Chiêm · Bộ ảnh chủ website cung cấp.",
       "summary": "Năm ngày qua đồi chè, thảo nguyên, hồ Bản Chang, rừng trúc và Ba Bể — mỗi nơi có một khoảng thời gian để ở lại.",
       "description": "Đây là tour dài nhất trong bộ sưu tập, phù hợp người muốn khám phá không gian du lịch mở rộng của Thái Nguyên. Tuyến đi lần lượt từ vùng trà lên Ngân Sơn rồi chuyển sang Ba Bể, hạn chế quay lại cùng một đường chỉ để thêm điểm. Không ghép Thẳm Phầy vào lịch này để giữ nhịp trải nghiệm vừa phải và đủ khoảng nghỉ.",
       "audience": "Nhóm bạn, người yêu ảnh phong cảnh, khách có năm ngày trọn vẹn và chấp nhận nhiều chặng xe đường núi.",
@@ -2059,6 +2141,20 @@
         "Chặng cuối có thể kết thúc muộn do điều kiện đường; không hẹn chuyến bay sát giờ trả khách."
       ],
       "weatherPlan": "Nếu Sam Chiêm/rừng trúc không tiếp cận được, lùi giờ hoặc bỏ điểm sau khi trao đổi với đoàn; lịch nghỉ và thuyền cũng điều chỉnh theo điều kiện thực tế, đối soát dịch vụ thay thế.",
+      "gallery": [
+        {
+          "image": "tours/thao-nguyen-sam-chiem.jpg",
+          "caption": "Thảo nguyên Sam Chiêm · Bộ ảnh chủ website cung cấp."
+        },
+        {
+          "image": "tours/doi-che-tan-cuong.jpg",
+          "caption": "Ảnh minh họa đồi chè cho hành trình Tân Cương · Bộ ảnh chủ website cung cấp."
+        },
+        {
+          "image": "tours/ho-ba-be.jpg",
+          "caption": "Hồ Ba Bể · Bộ ảnh chủ website cung cấp."
+        }
+      ],
       "nights": 4,
       "tag": "Thiên nhiên",
       "places": [

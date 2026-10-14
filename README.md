@@ -24,7 +24,7 @@ Mở http://127.0.0.1:4173. Kiểm tra: `node check.cjs` và `npm run check`.
 
 Thuật toán cá nhân hóa vẫn dùng bộ 5 điểm thử nghiệm ban đầu; bộ danh mục 10 tour chi tiết mới được quản lý riêng. Nếu chưa chọn địa điểm trong bộ thiết kế, ưu tiên phong cách và chi phí; nếu đã chọn địa điểm, giữ lựa chọn. Dự toán gồm trải nghiệm, ăn uống, lưu trú, xe nội vùng chia theo nhóm. Không phải báo giá nhà cung cấp. Tọa độ khu vực gần đúng, đường nối không phải tuyến đường bộ; kiểm tra tuyến thực tế qua Google Maps.
 
-Bản đồ nền và phông chữ cần kết nối mạng. Ảnh Tân Cương và Núi Cốc có chú thích đúng điểm; các tour chưa có ảnh sử dụng tranh SVG minh họa và được ghi rõ. Nguồn tham khảo điểm đến được gắn vào từng tour; chỉ dùng nguồn để đối chiếu cảnh quan và vị trí, không coi là xác nhận giá/giờ/dịch vụ hiện tại.
+Bản đồ nền và phông chữ cần kết nối mạng. Ảnh bìa của cả 10 tour và bộ ảnh trong chi tiết tour dùng 8 ảnh do chủ website cung cấp từ thư mục `../images`, được sao chép nguyên bản vào `dist/assets/tours/`. Địa danh ghép theo tên tệp của chủ website, không phải kết quả xác minh địa điểm bằng hình ảnh. Ảnh nhà sàn chưa rõ địa điểm chỉ minh họa không gian lưu trú của TJ04, không đại diện cơ sở đã đặt. Không dùng ảnh có tên Juknokwon (Hàn Quốc) cho Yến Dương. Các tour có nhiều ảnh hiển thị thêm bộ ảnh bấm mở lớn; các điểm chưa có ảnh không được gán nhầm ảnh từ nơi khác. Nguồn tham khảo điểm đến được gắn vào từng tour; chỉ dùng nguồn để đối chiếu cảnh quan và vị trí, không coi là xác nhận giá/giờ/dịch vụ hiện tại.
 
 ## Dữ liệu biên tập ngày 14/10/2026
 
