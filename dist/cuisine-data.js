@@ -14,6 +14,7 @@ globalThis.TRA_CUISINE = [
     badge: 'Món bánh di sản',
     tasteNotes: ['Nếp nương dẻo quánh', 'Vị ngải thanh mát', 'Ngọt bùi đường phèn vừng', 'Giải nhiệt an thần'],
     story: {
+      journalNote: 'Hãy thử khi bánh còn mềm, bẻ một miếng nhỏ để cảm nhận lớp nếp trước rồi mới để phần nhân vừng tan chậm ở cuối vị. Một chén trà nóng bên cạnh sẽ giúp vị ngọt trở nên nhẹ nhàng hơn.',
       origin: 'Bánh ngải là món ăn truyền thống không thể thiếu trong các dịp lễ Thanh minh, Tết Hàn thực và mừng lúa mới của đồng bào Tày vùng Định Hóa và Ba Bể. Màu xanh mướt của bánh tượng trưng cho chồi non lộc biếc và sự hòa hợp giữa con người với đất trời non ngàn.',
       ingredients: 'Gạo nếp nương hạt tròn mẩy, ngâm nước suối ngàn; lá ngải cứu non mọc tự nhiên trên các triền đá vôi; tro sạch đốt từ thân tre hoặc vỏ đỗ xanh; đường phèn mật mía và vừng rang vàng.',
       making: 'Lá ngải nhặt sạch được luộc kỹ trong nước tro bếp gạn trong để giữ trọn màu xanh tươi tắn và khử bớt vị đắng chát. Gạo nếp đồ xôi chín dẻo rồi cho vào cối đá cùng lá ngải giã nhuyễn khi còn nóng hổi. Đôi tay thoăn thoắt của các bà, các mẹ nặn nhân vừng đường và xoa chút mỡ gà bóng mượt.',
@@ -39,6 +40,7 @@ globalThis.TRA_CUISINE = [
     badge: 'Đặc sản tiến vua',
     tasteNotes: ['Tôm sông giòn ngọt', 'Hành hoa thanh dịu', 'Chua ngọt cay nồng', 'Cân bằng âm dương'],
     story: {
+      journalNote: 'Đừng chấm quá đẫm để vị tôm, rau thơm và hành vẫn rõ nét. Mỗi cuốn có nhiều lớp kết cấu, vì vậy món này hợp để ăn chậm và chia sẻ giữa bàn.',
       origin: 'Tôm cuốn làng Thừa Lâm (xã Tiên Phong, TX Phổ Yên) là món ăn cổ truyền có lịch sử hàng trăm năm, từng được chọn làm vật phẩm tiến dâng các bậc vua chúa thời xưa. Món ăn biểu trưng cho sự tỉ mỉ, hiếu khách và nét tài hoa của người nội trợ miền trung du.',
       ingredients: 'Tôm sông tự nhiên còn tươi nhảy tanh tách; thịt ba chỉ lợn ỉ luộc chín; trứng gà ta tráng mỏng thái chỉ; giò lụa; đậu phụ rán giòn; rau răm, mùi tàu, tía tô non và những cây hành hoa cọng dài xanh mướt.',
       making: 'Hành cọng được trần sơ qua nước sôi vừa đủ chín tới giữ nguyên độ dai mềm. Tôm sông chiên vàng giòn cả vỏ. Người làm khéo léo xếp một con tôm, miếng thịt ba chỉ, sợi giò, trứng, đậu phụ cùng các loại rau thơm rồi dùng cọng hành hoa xanh quấn đều tay quanh thân, tạo thành từng cuốn vừa vặn như chiếc kén ngọc.',
@@ -64,6 +66,7 @@ globalThis.TRA_CUISINE = [
     badge: 'Đặc sản theo mùa',
     tasteNotes: ['Trứng kiến béo ngậy', 'Nếp nương dẻo thơm', 'Lá vả non bùi bùi', 'Hương rừng nguyên sơ'],
     story: {
+      journalNote: 'Bánh ngon nhất khi còn ấm: lớp nếp mềm, lá vả thoảng vị chát và phần nhân béo tạo nên ba lớp cảm nhận rất rõ. Đây là món dành cho người thích thử một hương vị theo mùa, mộc mạc và khác lạ.',
       origin: 'Cứ mỗi độ tháng 3 đến tháng 5 âm lịch khi hoa rừng đua nở, người dân tộc Tày vùng cao Võ Nhai lại vào rừng sâu tìm tổ kiến gai đen làm bánh trứng kiến. Món bánh là sản vật hiếm có của núi rừng, thể hiện sự am hiểu thiên nhiên sâu sắc của đồng bào vùng cao.',
       ingredients: 'Trứng kiến gai đen béo múp như hạt gạo nếp; gạo nếp nương hảo hạng; thịt lợn ba chỉ băm nhỏ; củ kiệu hoặc hành tím phi thơm và lá vả bánh tẻ mọc hoang ven suối.',
       making: 'Trứng kiến sau khi làm sạch được xào thơm cùng thịt băm và hành khô tạo độ béo bùi đậm đà. Bột nếp nương nhào nước ấm mịn màng dát mỏng lên bề mặt lá vả, rải đều nhân trứng kiến rồi gập đôi lá lại, đem hấp cách thủy khoảng 45 phút cho bánh chín rền.',
@@ -89,6 +92,7 @@ globalThis.TRA_CUISINE = [
     badge: 'Món quà đồng quê',
     tasteNotes: ['Nếp thơm hạt mẩy', 'Lạc đỏ bùi bùi', 'Hương lá dong rừng', 'Chấm mật mía ngọt thanh'],
     story: {
+      journalNote: 'Bánh có vị dịu và ít cầu kỳ, nên hãy thử một miếng nguyên bản trước khi chấm mật. Khi ăn cùng trà nóng, vị bùi của lạc và hương nếp hiện lên rõ hơn mà không cần thêm nhiều gia vị.',
       origin: 'Trong tiếng Tày, "cóoc mò" nghĩa là sừng bò. Chiếc bánh có chóp nhọn tượng trưng cho sức mạnh dũng mãnh và ước mong con trẻ trong nhà hay ăn chóng lớn, khỏe mạnh như chú nghé non giữa thảo nguyên xanh.',
       ingredients: 'Gạo nếp nương hạt tròn trắng đục, hạt lạc đỏ (đậu phộng bản địa), lá dong non hoặc lá chuối rừng và lạt mềm chẻ từ cây giang.',
       making: 'Gạo nếp vo sạch ngâm nước suối trong rồi trộn đều cùng lạc đỏ mẩy hạt. Người gói khéo léo cuộn chiếc lá dong thành hình chiếc phễu chóp nhọn, trút nếp vào rồi nén chặt, gấp mép lá lại và quấn lạt giang thật chắc tay trước khi luộc suốt 3-4 tiếng đồng hồ.',
@@ -114,6 +118,7 @@ globalThis.TRA_CUISINE = [
     badge: 'Ẩm thực chiến khu',
     tasteNotes: ['Nếp cái hoa vàng dẻo rền', 'Màng lụa nứa thơm ngọt', 'Muối vừng đậm đà', 'Khói lam chiều ấm áp'],
     story: {
+      journalNote: 'Bóc lớp tre khi cơm còn âm ấm, xé thành miếng vừa tay rồi chấm muối vừng. Hương nếp và mùi tre nướng gặp nhau trong một món ăn giản dị, hợp cho chặng nghỉ giữa hành trình.',
       origin: 'Gắn liền với những năm tháng kháng chiến gian khổ tại Thủ đô Gió ngàn ATK Định Hóa, cơm lam vừa là lương thảo theo chân bộ đội vượt suối băng rừng, vừa là nét văn hóa ẩm thực đặc sắc của người Tày, Nùng bản địa.',
       ingredients: 'Gạo nếp cái hoa vàng thượng hạng vụ mùa; ống nứa bánh tẻ còn ứa nhựa tươi; nước suối đầu nguồn tinh khiết và lá chuối tươi nút đầu ống.',
       making: 'Gạo nếp sau khi ngâm suối được luồn vào lòng ống nứa, thêm nước vừa xâm xấp rồi dùng lá chuối cuộn chặt bịt miệng ống. Đặt ống nứa nghiêng trên bếp than hồng rực, vừa nướng vừa xoay tròn đều tay đến khi mùi thơm của nếp hòa cùng hương tre nứa lan tỏa ngào ngạt.',
@@ -139,6 +144,7 @@ globalThis.TRA_CUISINE = [
     badge: 'Lễ hội truyền thống',
     tasteNotes: ['Giòn xốp tan nhanh', 'Mật mía óng ả', 'Vừng rang thơm nức', 'Ngọt ngào lễ tết'],
     story: {
+      journalNote: 'Bánh nhỏ, giòn và thơm, thích hợp để nhâm nhi cùng trà trong một buổi trò chuyện. Nếu có mật mía, chấm vừa đủ để vị ngọt phủ nhẹ lên lớp bánh mà vẫn giữ được độ giòn.',
       origin: 'Bánh trời (còn gọi là Pẻng Tải hay bánh dâng trời) là món bánh cổ truyền được người dân chuẩn bị kỹ lưỡng dâng lên bàn thờ tổ tiên và các vị thần linh trong các dịp Lồng tồng (xuống đồng) đầu xuân để tạ ơn đất trời phù hộ nương ngô tươi tốt.',
       ingredients: 'Bột gạo nếp nương xay ướt gạn khô; lòng đỏ trứng gà; mật mía sánh mịn cô đặc và hạt mè (vừng) rang vàng.',
       making: 'Bột nếp nhào đều nặn thành từng viên tròn nhỏ xinh rồi thả vào chảo dầu nóng chiên phồng xốp giòn tan. Sau đó vớt bánh ra đảo nhanh qua chảo mật mía đang sôi sủi tăm để lớp mật óng ánh bọc quanh thân bánh, rắc thêm chút vừng rang thơm nức mũi.',
@@ -163,6 +169,7 @@ globalThis.TRA_CUISINE = [
     badge: 'Món quà từ bắp ngô',
     tasteNotes: ['Ngô non ngọt dịu', 'Dẻo mềm thơm phức', 'Mộc mạc dân dã', 'Đượm vị nương rẫy'],
     story: {
+      journalNote: 'Thưởng thức lúc bánh vừa mở gói để mùi ngô còn rõ và phần nếp vẫn mềm. Vị ngọt thanh tự nhiên khiến món bánh hợp làm bữa xế nhẹ trên đường khám phá Na Rì.',
       origin: 'Vùng cao Na Rì bạt ngàn nương ngô bắp mẩy hạt. Vào mùa thu hoạch ngô non, người phụ nữ vùng cao lại tranh thủ làm bánh ngô để thưởng cho cả nhà sau những ngày lên nương vất vả, dần trở thành thức quà đặc sản vang danh gần xa.',
       ingredients: 'Ngô nếp nương vừa độ bánh tẻ còn ứa sữa ngọt mát; chút xíu đường mía; lá chuối hoặc chính vỏ áo bắp ngô tươi gói ngoài.',
       making: 'Hạt ngô được tách khỏi bắp rồi cho vào cối đá xay nhuyễn mịn cùng dòng sữa ngô sánh đặc. Người ta gói từng muỗng bột ngô vào lá chuối xanh hoặc bẹ ngô, xếp cẩn thận vào chõ đồ xôi hấp cách thủy trên bếp lửa đỏ rực suốt một giờ.',
@@ -187,6 +194,7 @@ globalThis.TRA_CUISINE = [
     badge: 'Thanh nhiệt giải độc',
     tasteNotes: ['Trong veo như hổ phách', 'Mềm mát trơn mượt', 'Thảo mộc thanh tao', 'Mật mía ngọt đậm'],
     story: {
+      journalNote: 'Bánh gio có vị nền nhẹ, vì vậy một chút mật mía là đủ làm món ăn tròn vị. Cắt thành miếng nhỏ, để lớp mật áo mỏng quanh bánh rồi thưởng thức từ tốn để cảm nhận độ mềm mượt.',
       origin: 'Bánh gio (bánh tro) là món bánh cổ truyền có mặt trong mọi dịp Tết Đoan Ngọ (mùng 5 tháng 5). Dưới góc nhìn ẩm thực dưỡng sinh của người Việt xưa, bánh gio có tính mát, giúp thanh nhiệt giải độc cơ thể cực kỳ hiệu quả.',
       ingredients: 'Nếp cái hoa vàng hạt đều; nước gio lọc từ tro đốt các loại cây dược liệu rừng như tầm gửi, vỏ bưởi, cây dền gai; lá dong hoặc lá đót rừng và mật mía chưng kỹ.',
       making: 'Nước tro bếp được lọc thật trong, sau đó ngâm gạo nếp ròng rã suốt một ngày đêm cho đến khi hạt gạo chuyển màu nâu trong. Gói bánh thành hình thuôn dài hoặc tam giác, luộc rền trên bếp củi liu riu nhiều giờ liền để bánh dẻo mịn trong suốt.',
@@ -211,6 +219,7 @@ globalThis.TRA_CUISINE = [
     badge: 'Món xôi nghi lễ',
     tasteNotes: ['Hạt nếp nương dẻo quánh', 'Hương thảo mộc dịu dàng', 'Sắc màu ngũ hành', 'Không ngấy ngán'],
     story: {
+      journalNote: 'Mâm xôi ngũ sắc thường là điểm nhấn của bữa ăn ngay từ ánh nhìn đầu tiên. Gắp một ít xôi nóng cùng muối vừng để vị nếp thơm và phần nêm mặn bùi cân bằng nhau.',
       origin: 'Trong tiếng Tày, "Đăm đeng" có nghĩa là đỏ đen. Xôi ngũ sắc tượng trưng cho ngũ hành tương sinh: Kim, Mộc, Thủy, Hỏa, Thổ. Đây là món ăn trang trọng nhất xuất hiện trên mâm cỗ cưới hỏi, ngày lễ hội mừng cơm mới và đón khách quý của người Tày, Nùng.',
       ingredients: 'Gạo nếp nương nương rẫy; lá cẩm tím, củ nghệ vàng, lá sau sau (tạo màu đen huyền bí), quả gấc đỏ hoặc lá bưởi bung hoàn toàn tự nhiên.',
       making: 'Gạo nếp được chia thành 5 phần ngâm riêng biệt vào từng loại nước cốt thảo mộc đun sôi để nhuộm màu tự nhiên. Sau đó người nấu cho từng lớp gạo màu sắc vào chõ gỗ đồ xôi cách thủy. Hơi nước rừng bốc lên làm chín từng hạt nếp bóng bẩy mà không hề lẫn màu sang nhau.',
@@ -236,6 +245,7 @@ globalThis.TRA_CUISINE = [
     badge: 'Món nhậu trứ danh',
     tasteNotes: ['Thịt cá săn chắc ngọt lịm', 'Mùi khói than hoa thoang thoảng', 'Muối ớt tiêu rừng cay nồng', 'Vỏ ngoài giòn rụm'],
     story: {
+      journalNote: 'Gỡ một miếng cá khi còn nóng, chấm nhẹ với muối ớt rồi ăn cùng cơm lam hoặc rau xanh nếu có. Vị ngọt của cá, mùi khói và cái se mát bên hồ tạo nên một bữa ăn giản dị đáng nhớ.',
       origin: 'Bản Pác Ngòi nằm nép mình bên bờ hồ Ba Bể huyền thoại. Người Tày nơi đây từ bao đời nay đã gắn liền với nghề chài lưới ven hồ. Món cá nướng kẹp tre bên bếp lửa nhà sàn là biểu tượng của lòng mến khách và sự trù phú của vùng hồ xanh biếc.',
       ingredients: 'Cá chép, cá trôi, cá mương tươi ngon đánh bắt tự nhiên trong hồ Ba Bể; thanh tre tươi chẻ đôi làm nẹp; muối trắng, ớt chỉ thiên và hạt mắc khén tiêu rừng thơm cay.',
       making: 'Cá đánh bắt về còn tươi rói được mổ dọc sống lưng làm sạch ruột, ướp chút muối ớt tiêu rừng cho thấm đều. Kẹp cá vào các thanh tre tươi rồi đặt nướng trên than củi hồng. Lửa than liu riu nướng chậm rãi khiến cá chín từ trong ra ngoài, thịt cá khô săn, vàng óng mà không bị cháy xém.',
@@ -261,6 +271,7 @@ globalThis.TRA_CUISINE = [
     badge: 'Đặc sản lên men',
     tasteNotes: ['Chua thanh tự nhiên', 'Cay nồng ớt tỏi', 'Thơm nức riềng củ', 'Tôm giòn đậm vị'],
     story: {
+      journalNote: 'Tôm chua có vị đậm, nên hãy ăn kèm từng chút với thịt luộc và rau để cân bằng độ chua cay. Một miếng cuốn đủ thành phần sẽ cho cảm giác giòn, mềm, béo và thơm cùng lúc.',
       origin: 'Hồ Ba Bể nước ngọt quanh năm trong vắt là nơi sinh sống của loài tôm tép tươi ngon. Người dân Khang Ninh, Nam Mẫu đã sáng tạo ra phương pháp ủ tôm chua bằng xôi nếp và thảo mộc để bảo quản tôm ăn quanh năm, dần trở thành món đặc sản vang danh bốn phương.',
       ingredients: 'Tôm tép hồ Ba Bể còn sống tươi rói; xôi nếp nương đồ chín để nguội; củ riềng thái chỉ mỏng; tỏi củ, ớt hiểm đỏ và chút rượu ngô men lá.',
       making: 'Tôm làm sạch ngâm rượu cho sạch rồi để ráo. Trộn đều tôm cùng xôi nếp nguội, riềng thái chỉ, tỏi, ớt và muối hạt. Cho tất cả vào chum sành hoặc hũ thủy tinh đậy kín ủ ấm. Sau một tuần, men vi sinh từ xôi nếp và tôm tạo thành màu đỏ au tự nhiên cùng mùi thơm nồng nàn quyến rũ.',
@@ -285,6 +296,7 @@ globalThis.TRA_CUISINE = [
     badge: 'Đệ nhất danh trà',
     tasteNotes: ['Nước vàng óng ánh', 'Hương cốm non ngạt ngào', 'Tiền chát dịu nhẹ', 'Hậu ngọt sâu lắng'],
     story: {
+      journalNote: 'Rót một lượng nhỏ ra chén, ngửi hương trước khi nhấp. Để ý cách vị chát dịu mở đầu rồi nhường chỗ cho hậu vị ngọt; đó là nhịp thưởng trà khiến một buổi ghé thăm vùng chè trở nên thư thả hơn.',
       origin: 'Được mệnh danh là "Đệ nhất danh trà", vùng chè Tân Cương được thiên nhiên ưu đãi nguồn đất phù sa cổ màu mỡ bên dòng sông Công và dãy núi Tam Đảo chắn bớt nắng gắt. Vùng đất này tạo nên những búp chè xanh ngát có hương vị thượng hạng độc nhất vô nhị của Việt Nam.',
       ingredients: 'Búp chè tươi tiêu chuẩn "1 tôm 2 lá" hái vào sáng sớm tinh mơ khi còn đọng giọt sương mai trên búp lá.',
       making: 'Nghệ nhân Tân Cương sao chè hoàn toàn theo phương pháp thủ công truyền thống: từ diệt men, vò chè đến sao suốt trên chảo gang đỏ lửa. Từng cử chỉ miết, đảo đòi hỏi cảm giác đôi bàn tay điêu luyện để búp chè xoăn tít như chiếc móc câu phủ lớp phấn tuyết bạc mịn màng.',
@@ -310,6 +322,7 @@ globalThis.TRA_CUISINE = [
     badge: 'Làng nghề truyền thống',
     tasteNotes: ['Nếp dẻo rền xanh ngắt', 'Đỗ xanh lòng vàng ươm', 'Thịt lợn tiêu cay béo ngậy', 'Nước giếng ngọc thanh khiết'],
     story: {
+      journalNote: 'Ăn bánh khi còn ấm để phần nếp mềm dẻo và nhân đỗ, thịt vẫn thơm rõ. Thử một lát mỏng trước, sau đó ăn cùng dưa góp hoặc dưa hành nếu thích vị chua nhẹ để cân bằng độ béo.',
       origin: 'Làng nghề bánh chưng Bờ Đậu (xã Cổ Lũng, huyện Phú Lương) nằm ngay ngã ba đường lên các tỉnh miền núi phía Bắc. Với kinh nghiệm hàng chục năm, chiếc bánh chưng nơi đây nổi danh khắp cả nước nhờ vị ngon độc đáo không lẫn vào đâu được.',
       ingredients: 'Gạo nếp nương đặc sản Định Hóa; đỗ xanh lòng vàng thơm mịn; thịt lợn ỉ ba chỉ tươi; lá dong rừng Định Hóa to bản xanh mướt và đặc biệt là nguồn nước ngọt lịm từ giếng đá tự nhiên làng Bờ Đậu.',
       making: 'Nét tài hoa độc đáo của nghệ nhân Bờ Đậu là gói bánh chưng hoàn toàn bằng tay không cần khuôn mà bánh vẫn vuông thành sắc cạnh, chặt chẽ như đúc. Bánh được luộc liên tục 10-12 tiếng bằng củi gộc, hạt nếp ngấu nhuyễn rền mịn mà không bị lại gạo.',

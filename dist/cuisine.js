@@ -155,6 +155,12 @@
         </figure>
 
         <p class="cuisine-blog-lead">${esc(d.summary)}</p>
+        ${d.story.journalNote ? `
+          <aside class="cuisine-journal-note">
+            <span>GỢI Ý THƯỞNG THỨC</span>
+            <p>${esc(d.story.journalNote)}</p>
+          </aside>
+        ` : ''}
 
         <div class="cuisine-article-layout">
           <div class="cuisine-blog-content">

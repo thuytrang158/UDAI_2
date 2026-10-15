@@ -579,6 +579,32 @@ dialog:has(.cuisine-blog) {
   line-height: 1.75;
 }
 
+.cuisine-journal-note {
+  display: grid;
+  grid-template-columns: 150px minmax(0, 1fr);
+  gap: 16px;
+  align-items: start;
+  max-width: 780px;
+  margin: -12px auto 38px;
+  padding: 17px 20px;
+  border-radius: 10px;
+  background: #f4f1e6;
+}
+
+.cuisine-journal-note > span {
+  color: #8a713e;
+  font-size: 9px;
+  font-weight: 700;
+  letter-spacing: 1.2px;
+  padding-top: 5px;
+}
+
+.cuisine-journal-note p {
+  color: #586253;
+  font: italic 13px/1.8 'Playfair Display', Georgia, serif;
+  margin: 0;
+}
+
 .cuisine-article-layout {
   display: grid;
   grid-template-columns: minmax(0, 1fr) 250px;
@@ -694,6 +720,7 @@ dialog:has(.cuisine-blog) {
   .cuisine-blog-sub { font-size: 15px; }
   .cuisine-blog-hero img { height: 240px; }
   .cuisine-blog-lead { margin: 23px auto 28px; padding-left: 14px; }
+  .cuisine-journal-note { grid-template-columns: 1fr; gap: 5px; margin: -6px auto 30px; padding: 15px; }
   .cuisine-article-layout { grid-template-columns: 1fr; gap: 24px; }
   .cuisine-article-aside { grid-template-columns: 1fr 1fr; }
   .cuisine-aside-note { grid-column: 1 / -1; }
