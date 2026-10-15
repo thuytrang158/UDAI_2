@@ -6,7 +6,7 @@ Cập nhật: 14/10/2026.
 
 Dùng tên khu vực quen thuộc Đại Từ, Võ Nhai, Sông Công, Định Hóa, Ba Bể, Ngân Sơn để nhận diện tuyến; không coi đây là địa chỉ hành chính hiện hành đầy đủ. Yên Dương được chuẩn hóa thành Yến Dương; Chùa Hang được hiểu là Kim Sơn Tự gần trung tâm Thái Nguyên.
 
-Tất cả tour khởi hành và kết thúc tại khu vực trung tâm Thái Nguyên. Giá là khoảng dự kiến cho đoàn 10 người lớn, ngày thường; chưa có lịch mở bán hoặc đánh giá khách hàng. Các nhà cung cấp, tuyến, dịch vụ và điều kiện tiếp cận phải được xác nhận trước khi nhận đặt chỗ.
+Tất cả tour khởi hành và kết thúc tại khu vực trung tâm Thái Nguyên. Giá là khoảng dự kiến cho đoàn 10 người lớn, ngày thường; chưa có lịch mở bán hoặc đánh giá khách hàng thực tế. Đánh giá mô phỏng trong tài liệu sử dụng tên hư cấu và được ghi nhãn rõ. Các nhà cung cấp, tuyến, dịch vụ và điều kiện tiếp cận phải được xác nhận trước khi nhận đặt chỗ.
 
 ## Danh mục
 
@@ -27,7 +27,7 @@ Tất cả tour khởi hành và kết thúc tại khu vực trung tâm Thái Ng
 
 # TJ01 — Hương trà, sắc hồ — Một ngày chạm miền xanh
 
-Buổi sáng theo hương trà trên những triền đồi, buổi chiều thả nhịp sống chậm bên hồ Núi Cốc.
+Hòa mình vào đồi chè Tân Cương xanh ngát, trải nghiệm hái chè cùng nghệ nhân và thả hồn thư thái trên du thuyền thưởng ngoạn hồ Núi Cốc thơ mộng.
 
 Một ngày vừa đủ để làm quen với hai sắc thái của miền trà: gần gũi trong câu chuyện người làm chè và khoáng đạt giữa không gian mặt hồ. Chuyến đi ưu tiên thưởng thức, trò chuyện và những khoảng nghỉ, phù hợp để mở đầu bộ sưu tập kỷ niệm Thái Nguyên của bạn.
 
@@ -36,7 +36,7 @@ Một ngày vừa đủ để làm quen với hai sắc thái của miền trà:
 - Trạng thái: Lịch trình đề xuất · Chưa mở bán
 - Thời lượng: 1 ngày 0 đêm
 - Tuyến: Đồi chè Tân Cương → Hồ Núi Cốc
-- Phong cách: Thiên nhiên, Văn hóa, Gia đình
+- Phong cách: Thiên nhiên, Văn hóa, Gia đình, Trải nghiệm Trà
 - Giá dự kiến: 790.000 ₫ – 990.000 ₫/người lớn
 - Điểm đón/trả: Đón và trả tại điểm hẹn trong khu vực trung tâm Thái Nguyên. Địa chỉ cụ thể được xác nhận khi chốt đoàn.
 - Lịch khởi hành: Theo yêu cầu đoàn riêng; chưa công bố ngày khởi hành cố định hoặc số chỗ còn trống.
@@ -132,11 +132,36 @@ Trước khi mở bán phải xác nhận bảo hiểm phù hợp phạm vi ho�
 10 tour do Trà Journey biên soạn. Nguồn dùng để đối chiếu điểm đến; tên tour, giờ, giá, dịch vụ và phối tuyến là đề xuất biên tập, chưa được nhà cung cấp xác nhận.
 
 
+## Đánh giá mô phỏng
+
+Đánh giá mô phỏng: tên người viết, điểm số và trải nghiệm đều là nội dung hư cấu để minh họa giao diện, không phải phản hồi khách hàng thực tế.
+
+Điểm trung bình mô phỏng: 4.7/5 (3 nhận xét).
+
+### Nguyễn Minh Anh — 5/5 — Đi cùng gia đình (mô phỏng)
+
+**Một ngày nhẹ nhàng mà nhiều kỷ niệm**
+
+Mình thích nhất buổi thưởng trà, được nghe giải thích từng bước nên thấy chuyến đi có chiều sâu hơn việc chỉ chụp ảnh. Lịch trình có khoảng nghỉ, bố mẹ mình theo được khá thoải mái.
+
+### Trần Hoàng Nam — 5/5 — Đi cùng bạn bè (mô phỏng)
+
+**Đồi chè buổi sáng rất hợp để chụp ảnh**
+
+Nhóm mình có đủ thời gian đi bộ và chụp ảnh mà không bị gọi lên xe liên tục. Bạn hướng dẫn nói chuyện gần gũi, bữa trưa vừa miệng. Phần bên hồ giúp cả nhóm thư giãn trước khi về.
+
+### Lê Thu Hà — 4/5 — Đi cùng người thương (mô phỏng)
+
+**Hợp cho cuối tuần ngắn**
+
+Phần trà thú vị hơn mình nghĩ, còn đoạn đi hồ khá thư thả. Mình muốn thời gian ở đồi chè dài hơn một chút; nếu quay lại sẽ chọn tour riêng để ở lâu hơn.
+
+
 ---
 
 # TJ02 — Trà sớm, hồ chiều — Picnic bên Ghềnh Chè
 
-Một chuyến đi ít vội vã: thưởng trà buổi sớm, ăn trưa cùng nhau rồi tận hưởng buổi picnic nhìn ra hồ.
+Thưởng thức ấm trà sớm tinh khôi giữa triền đồi Tân Cương, thảnh thơi picnic ven hồ Ghềnh Chè lộng gió và tận hưởng không gian gắn kết gia đình trọn vẹn.
 
 Không đặt mục tiêu đi thật nhiều, hành trình này dành phần lớn buổi chiều cho cả nhóm ở cạnh nhau. Sau sắc xanh của đồi chè là một điểm dã ngoại ven Ghềnh Chè, nơi bạn có thể đọc sách, chụp ảnh gia đình hoặc đơn giản ngồi nghe gió. Picnic được tổ chức tại khu vực có dịch vụ và được phép đón khách.
 
@@ -145,7 +170,7 @@ Không đặt mục tiêu đi thật nhiều, hành trình này dành phần l�
 - Trạng thái: Lịch trình đề xuất · Chưa mở bán
 - Thời lượng: 1 ngày 0 đêm
 - Tuyến: Đồi chè Tân Cương → Hồ Ghềnh Chè
-- Phong cách: Gia đình, Nghỉ dưỡng, Thiên nhiên
+- Phong cách: Gia đình, Nghỉ dưỡng, Thiên nhiên, Dã ngoại & Picnic
 - Giá dự kiến: 850.000 ₫ – 1.090.000 ₫/người lớn
 - Điểm đón/trả: Đón và trả tại điểm hẹn trong khu vực trung tâm Thái Nguyên. Địa chỉ cụ thể được xác nhận khi chốt đoàn.
 - Lịch khởi hành: Theo yêu cầu đoàn riêng; chưa công bố ngày khởi hành cố định hoặc số chỗ còn trống.
@@ -244,11 +269,36 @@ Trước khi mở bán phải xác nhận bảo hiểm phù hợp phạm vi ho�
 10 tour do Trà Journey biên soạn. Nguồn dùng để đối chiếu điểm đến; tên tour, giờ, giá, dịch vụ và phối tuyến là đề xuất biên tập, chưa được nhà cung cấp xác nhận.
 
 
+## Đánh giá mô phỏng
+
+Đánh giá mô phỏng: tên người viết, điểm số và trải nghiệm đều là nội dung hư cấu để minh họa giao diện, không phải phản hồi khách hàng thực tế.
+
+Điểm trung bình mô phỏng: 4.7/5 (3 nhận xét).
+
+### Phạm Ngọc Linh — 5/5 — Đi cùng gia đình (mô phỏng)
+
+**Cả nhà có thời gian ở bên nhau**
+
+Chuyến này không quá nhiều điểm nên hai bé không bị mệt vì lên xuống xe. Buổi picnic là phần cả nhà thích nhất, có chỗ ngồi nghỉ và thời gian trò chuyện thay vì chạy theo lịch.
+
+### Vũ Đức Anh — 4/5 — Đi cùng đồng nghiệp (mô phỏng)
+
+**Một ngày đổi không khí dễ chịu**
+
+Nhóm mình thích cách bố trí thưởng trà trước rồi mới picnic. Phần ăn nhẹ ổn, nhưng nếu có thêm món ít ngọt thì sẽ hợp với cả nhóm hơn. Nhìn chung lịch trình dễ theo.
+
+### Đỗ Mai Phương — 5/5 — Đi cùng bạn bè (mô phỏng)
+
+**Đi ít điểm nhưng cảm nhận được nhiều**
+
+Mình đã có một buổi chiều đọc sách và ngắm cảnh đúng nghĩa. Xe di chuyển vừa phải, bạn hướng dẫn chủ động nhắc giờ tập trung nên nhóm không phải tự lo nhiều việc.
+
+
 ---
 
 # TJ03 — Về nguồn giữa tiếng thác — ATK & Khuôn Tát
 
-Lắng nghe câu chuyện lịch sử tại ATK Định Hóa, rồi dành một khoảng lặng bên cảnh sắc Khuôn Tát.
+Lắng nghe trang sử hào hùng của chiến khu ATK Định Hóa, thưởng thức cơm lam nướng thơm lừng và đắm mình trong thanh âm trong trẻo của thác Khuôn Tát.
 
 Hành trình có nhịp đi trang trọng vào buổi sáng và nhẹ nhàng vào buổi chiều. Thay vì chạy qua nhiều di tích, đoàn tập trung một số điểm trong cụm ATK để nghe thuyết minh, đặt câu hỏi và kết nối kiến thức; phần thác là điểm thư giãn, không tổ chức leo các tầng cao hay tắm thác.
 
@@ -257,7 +307,7 @@ Hành trình có nhịp đi trang trọng vào buổi sáng và nhẹ nhàng và
 - Trạng thái: Lịch trình đề xuất · Chưa mở bán
 - Thời lượng: 1 ngày 0 đêm
 - Tuyến: ATK Định Hóa → Thác Khuôn Tát
-- Phong cách: Văn hóa, Thiên nhiên
+- Phong cách: Văn hóa, Thiên nhiên, Lịch sử & Về nguồn
 - Giá dự kiến: 790.000 ₫ – 990.000 ₫/người lớn
 - Điểm đón/trả: Đón và trả tại điểm hẹn trong khu vực trung tâm Thái Nguyên. Địa chỉ cụ thể được xác nhận khi chốt đoàn.
 - Lịch khởi hành: Theo yêu cầu đoàn riêng; chưa công bố ngày khởi hành cố định hoặc số chỗ còn trống.
@@ -353,11 +403,36 @@ Trước khi mở bán phải xác nhận bảo hiểm phù hợp phạm vi ho�
 10 tour do Trà Journey biên soạn. Nguồn dùng để đối chiếu điểm đến; tên tour, giờ, giá, dịch vụ và phối tuyến là đề xuất biên tập, chưa được nhà cung cấp xác nhận.
 
 
+## Đánh giá mô phỏng
+
+Đánh giá mô phỏng: tên người viết, điểm số và trải nghiệm đều là nội dung hư cấu để minh họa giao diện, không phải phản hồi khách hàng thực tế.
+
+Điểm trung bình mô phỏng: 4.7/5 (3 nhận xét).
+
+### Bùi Quang Huy — 5/5 — Đi cùng gia đình (mô phỏng)
+
+**Câu chuyện lịch sử khiến chuyến đi đáng nhớ**
+
+Thay vì ghé thật nhiều di tích, đoàn dành thời gian nghe thuyết minh và đặt câu hỏi. Mình thích cách kể dễ hiểu, có liên hệ với từng nơi đang đứng. Bố mình đặc biệt thích buổi sáng ở ATK.
+
+### Nguyễn Thảo Vy — 4/5 — Đi cùng bạn bè (mô phỏng)
+
+**Một ngày vừa học thêm vừa thư giãn**
+
+Lịch sử buổi sáng và cảnh thác buổi chiều kết hợp khá hay. Có vài đoạn bậc thang nên cần đi giày thoải mái. Mình mong thời gian nghỉ trưa thêm khoảng 15 phút.
+
+### Trần Quốc Bảo — 5/5 — Đi cùng đồng nghiệp (mô phỏng)
+
+**Thuyết minh có chiều sâu**
+
+Phần ATK được chuẩn bị kỹ, không có cảm giác nghe giới thiệu cho xong. Bữa trưa đơn giản nhưng hợp khẩu vị, buổi chiều ngắm thác giúp cả nhóm thả lỏng sau buổi tham quan.
+
+
 ---
 
 # TJ04 — Miền đá và tiếng suối — Chùa Hang & Võ Nhai
 
-Từ không gian tĩnh tại của Chùa Hang đến hành trình khám phá Phượng Hoàng và một đêm nghỉ ở vùng Võ Nhai.
+Chiêm bái Chùa Hang cổ kính, chinh phục hang Phượng Hoàng kỳ vĩ với thạch nhũ lung linh, ngắm suối ngầm Mỏ Gà và ngủ đêm nhà sàn ấm áp bản Tày.
 
 Chuyến đi kết hợp văn hóa và vận động vừa phải, với khoảng đệm đủ dài cho đường lên hang. Buổi tối nghỉ tại cơ sở địa phương mang lại thời gian cảm nhận nhịp sống vùng núi. Các hoạt động giao lưu chỉ tổ chức khi chủ nhà và cộng đồng đồng ý, không xem sinh hoạt của người dân là một tiết mục mặc định.
 
@@ -366,7 +441,7 @@ Chuyến đi kết hợp văn hóa và vận động vừa phải, với khoản
 - Trạng thái: Lịch trình đề xuất · Chưa mở bán
 - Thời lượng: 2 ngày 1 đêm
 - Tuyến: Chùa Hang → Hang Phượng Hoàng - Suối Mỏ Gà
-- Phong cách: Văn hóa, Khám phá, Thiên nhiên
+- Phong cách: Văn hóa, Khám phá, Thiên nhiên, Hang động kỳ vĩ
 - Giá dự kiến: 1.890.000 ₫ – 2.390.000 ₫/người lớn
 - Điểm đón/trả: Đón và trả tại điểm hẹn trong khu vực trung tâm Thái Nguyên. Địa chỉ cụ thể được xác nhận khi chốt đoàn.
 - Lịch khởi hành: Theo yêu cầu đoàn riêng; chưa công bố ngày khởi hành cố định hoặc số chỗ còn trống.
@@ -477,11 +552,36 @@ Trước khi mở bán phải xác nhận bảo hiểm phù hợp phạm vi ho�
 10 tour do Trà Journey biên soạn. Nguồn dùng để đối chiếu điểm đến; tên tour, giờ, giá, dịch vụ và phối tuyến là đề xuất biên tập, chưa được nhà cung cấp xác nhận.
 
 
+## Đánh giá mô phỏng
+
+Đánh giá mô phỏng: tên người viết, điểm số và trải nghiệm đều là nội dung hư cấu để minh họa giao diện, không phải phản hồi khách hàng thực tế.
+
+Điểm trung bình mô phỏng: 4.3/5 (3 nhận xét).
+
+### Hoàng Ngọc Anh — 5/5 — Đi cùng bạn bè (mô phỏng)
+
+**Hai ngày nhiều trải nghiệm khác nhau**
+
+Buổi đầu nhẹ nhàng ở chùa và khu dân cư, hôm sau mới dành sức lên hang nên lịch khá hợp lý. Người dẫn đường thường xuyên chờ cả nhóm, mình không cảm thấy bị thúc ép.
+
+### Đặng Minh Khoa — 4/5 — Đi cùng người thương (mô phỏng)
+
+**Thích phần đi hang, cần giày tốt**
+
+Đường lên xuống có đoạn dốc nên mình mừng vì đã mang giày bám. Chỗ nghỉ đơn giản, sạch sẽ theo cảm nhận của mình. Nếu phòng cách âm tốt hơn thì buổi tối sẽ dễ ngủ hơn.
+
+### Lê Khánh Chi — 4/5 — Đi cùng bạn bè (mô phỏng)
+
+**Không chỉ là đến chụp ảnh rồi về**
+
+Mình thích phần nghe chuyện địa phương và bữa cơm buổi tối. Tuyến hang vừa sức nhóm, nhưng người ít vận động nên chuẩn bị trước. Xe đi đoạn cuối hơi chậm, bù lại lịch có thời gian đệm.
+
+
 ---
 
 # TJ05 — Theo dòng Cửa Tử — Rừng, hồ và hương trà
 
-Một ngày đi rừng theo tuyến Cửa Tử cơ bản, một ngày hồi phục bên hồ và những đồi chè.
+Chinh phục cung trekking Cửa Tử nguyên sơ vượt ghềnh đá ngọc bích cùng người dẫn đường, tái tạo năng lượng bên hồ Núi Cốc và đồi chè Tân Cương.
 
 Hành trình dành cho người muốn vận động nhưng vẫn có một ngày cuối thật thư thả. Cửa Tử được bố trí riêng một ngày để kiểm tra điều kiện, đi theo nhịp đoàn và quay về sớm. Tour không hứa chinh phục bảy cửa, không mặc định có nhảy thác, trượt máng hay vượt dây; giới hạn tuyến do người hướng dẫn chuyên môn quyết định.
 
@@ -490,7 +590,7 @@ Hành trình dành cho người muốn vận động nhưng vẫn có một ngà
 - Trạng thái: Lịch trình đề xuất · Chưa mở bán
 - Thời lượng: 2 ngày 1 đêm
 - Tuyến: Suối Cửa Tử → Hồ Núi Cốc → Đồi chè Tân Cương
-- Phong cách: Trekking, Thiên nhiên, Khám phá
+- Phong cách: Trekking, Thiên nhiên, Khám phá, Vượt suối mạo hiểm
 - Giá dự kiến: 2.490.000 ₫ – 2.990.000 ₫/người lớn
 - Điểm đón/trả: Đón và trả tại điểm hẹn trong khu vực trung tâm Thái Nguyên. Địa chỉ cụ thể được xác nhận khi chốt đoàn.
 - Lịch khởi hành: Theo yêu cầu đoàn riêng; chưa công bố ngày khởi hành cố định hoặc số chỗ còn trống.
@@ -606,11 +706,36 @@ Trước khi mở bán phải xác nhận bảo hiểm phù hợp phạm vi ho�
 10 tour do Trà Journey biên soạn. Nguồn dùng để đối chiếu điểm đến; tên tour, giờ, giá, dịch vụ và phối tuyến là đề xuất biên tập, chưa được nhà cung cấp xác nhận.
 
 
+## Đánh giá mô phỏng
+
+Đánh giá mô phỏng: tên người viết, điểm số và trải nghiệm đều là nội dung hư cấu để minh họa giao diện, không phải phản hồi khách hàng thực tế.
+
+Điểm trung bình mô phỏng: 4.7/5 (3 nhận xét).
+
+### Phan Tuấn Kiệt — 5/5 — Đi cùng bạn bè (mô phỏng)
+
+**Một ngày vận động, một ngày nghỉ đúng ý**
+
+Cách tách ngày đi suối và ngày hồ–trà rất hợp lý. Nhóm được phổ biến tuyến trước khi đi, ai chậm hơn cũng có thời gian theo. Ngày thứ hai nhẹ nhàng giúp mình không thấy chuyến đi quá đuối.
+
+### Nguyễn Hoài An — 4/5 — Đi cùng đồng nghiệp (mô phỏng)
+
+**Cần chuẩn bị thể lực nhưng rất đáng trải nghiệm**
+
+Mình đi bộ thường xuyên mà vẫn thấy vài đoạn khá tốn sức. Điểm cộng là hướng dẫn nhắc cách đặt chân và giữ khoảng cách. Mình muốn phần hướng dẫn chuẩn bị hành lý gửi sớm hơn.
+
+### Trịnh Gia Hân — 5/5 — Đi cùng bạn bè (mô phỏng)
+
+**Thích nhịp đi vừa với nhóm**
+
+Mình không muốn một chuyến chạy thành tích, nên rất thích việc có điểm nghỉ và không cố đi thêm tuyến khó. Bữa tối sau ngày vận động ngon miệng, buổi thưởng trà hôm sau là kết thúc đẹp.
+
+
 ---
 
 # TJ06 — Ba Bể, miền trúc xanh — Ba ngày sống chậm
 
-Đi giữa rừng trúc Yến Dương, dành một ngày trọn vẹn cho Ba Bể và hai đêm nghỉ trong nhịp sống bản làng.
+Rảo bước giữa rừng trúc Yến Dương xanh ngút ngàn, du thuyền lướt nhẹ trên mặt hồ Ba Bể huyền ảo và tận hưởng hai đêm homestay an yên bản làng.
 
 Một hành trình ưu tiên chiều sâu và khoảng nghỉ: không vừa chạy đường dài vừa nhồi thêm hang động trong ngày. Ba Bể có riêng một ngày để đi thuyền, ngắm núi và nghỉ ở homestay. Rừng trúc là trải nghiệm đi bộ có độ dốc, được tổ chức theo sức của đoàn chứ không mặc định là lối dạo bằng phẳng.
 
@@ -619,7 +744,7 @@ Một hành trình ưu tiên chiều sâu và khoảng nghỉ: không vừa ch�
 - Trạng thái: Lịch trình đề xuất · Chưa mở bán
 - Thời lượng: 3 ngày 2 đêm
 - Tuyến: Rừng trúc Yến Dương → Hồ Ba Bể
-- Phong cách: Nghỉ dưỡng, Thiên nhiên, Văn hóa
+- Phong cách: Nghỉ dưỡng, Thiên nhiên, Văn hóa, Sinh thái Rừng Trúc
 - Giá dự kiến: 3.290.000 ₫ – 3.890.000 ₫/người lớn
 - Điểm đón/trả: Đón và trả tại điểm hẹn trong khu vực trung tâm Thái Nguyên. Địa chỉ cụ thể được xác nhận khi chốt đoàn.
 - Lịch khởi hành: Theo yêu cầu đoàn riêng; chưa công bố ngày khởi hành cố định hoặc số chỗ còn trống.
@@ -743,11 +868,36 @@ Trước khi mở bán phải xác nhận bảo hiểm phù hợp phạm vi ho�
 10 tour do Trà Journey biên soạn. Nguồn dùng để đối chiếu điểm đến; tên tour, giờ, giá, dịch vụ và phối tuyến là đề xuất biên tập, chưa được nhà cung cấp xác nhận.
 
 
+## Đánh giá mô phỏng
+
+Đánh giá mô phỏng: tên người viết, điểm số và trải nghiệm đều là nội dung hư cấu để minh họa giao diện, không phải phản hồi khách hàng thực tế.
+
+Điểm trung bình mô phỏng: 4.7/5 (3 nhận xét).
+
+### Đỗ Bảo Ngọc — 5/5 — Đi cùng người thương (mô phỏng)
+
+**Ba Bể theo một nhịp thật chậm**
+
+Ở cùng một nơi hai đêm nên mình có cảm giác thực sự được nghỉ. Buổi đi thuyền có nhiều khoảng yên lặng để ngắm cảnh. Chủ nhà trong kịch bản trải nghiệm rất gần gũi, bữa ăn tạo cảm giác ấm cúng.
+
+### Ngô Thành Đạt — 4/5 — Đi cùng gia đình (mô phỏng)
+
+**Lịch trình có khoảng nghỉ hợp lý**
+
+Phần rừng trúc đẹp nhưng có dốc, mình nghĩ nên đọc kỹ phần mức vận động trước khi chọn. Gia đình thích ngày ở hồ vì không phải liên tục chuyển xe. Phòng nghỉ ở mức cơ bản, phù hợp kỳ vọng.
+
+### Võ Thanh Trúc — 5/5 — Đi cùng bạn bè (mô phỏng)
+
+**Chuyến đi để trò chuyện nhiều hơn**
+
+Nhóm mình thích buổi chiều tự do ở nơi nghỉ, không phải hoạt động nào cũng lên lịch kín. Thuyền và bữa ăn được sắp xếp thuận tiện; những đoạn di chuyển dài có dừng nghỉ nên đỡ mệt.
+
+
 ---
 
 # TJ07 — Gió trên thảo nguyên — Sam Chiêm & Bản Chang
 
-Một buổi chiều trên những triền cỏ Sam Chiêm, một buổi sáng nhìn mặt hồ Bản Chang giữa không gian vùng cao.
+Đón gió lộng trên thảo nguyên Sam Chiêm bao la với thảm cỏ uốn lượn, thỏa sức săn ảnh vùng cao và dạo bước ngắm hồ Bản Chang tĩnh lặng, thơ mộng.
 
 Tour dành cho những người thích mang về một bộ ảnh và cảm giác thoáng đãng. Sam Chiêm được ghép với Bản Chang theo khu vực Ngân Sơn, tránh kéo thêm chặng Ba Bể trong chuyến hai ngày. Đoàn nghỉ tại cơ sở lưu trú, không mặc định cắm trại qua đêm ở nơi chưa xác nhận dịch vụ và quyền tiếp cận.
 
@@ -756,7 +906,7 @@ Tour dành cho những người thích mang về một bộ ảnh và cảm giá
 - Trạng thái: Lịch trình đề xuất · Chưa mở bán
 - Thời lượng: 2 ngày 1 đêm
 - Tuyến: Thảo nguyên Sam Chiêm → Hồ Bản Chang
-- Phong cách: Thiên nhiên, Nhiếp ảnh, Khám phá
+- Phong cách: Thiên nhiên, Nhiếp ảnh, Khám phá, Check-in Thảo nguyên
 - Giá dự kiến: 2.590.000 ₫ – 3.190.000 ₫/người lớn
 - Điểm đón/trả: Đón và trả tại điểm hẹn trong khu vực trung tâm Thái Nguyên. Địa chỉ cụ thể được xác nhận khi chốt đoàn.
 - Lịch khởi hành: Theo yêu cầu đoàn riêng; chưa công bố ngày khởi hành cố định hoặc số chỗ còn trống.
@@ -865,11 +1015,36 @@ Trước khi mở bán phải xác nhận bảo hiểm phù hợp phạm vi ho�
 10 tour do Trà Journey biên soạn. Nguồn dùng để đối chiếu điểm đến; tên tour, giờ, giá, dịch vụ và phối tuyến là đề xuất biên tập, chưa được nhà cung cấp xác nhận.
 
 
+## Đánh giá mô phỏng
+
+Đánh giá mô phỏng: tên người viết, điểm số và trải nghiệm đều là nội dung hư cấu để minh họa giao diện, không phải phản hồi khách hàng thực tế.
+
+Điểm trung bình mô phỏng: 4.3/5 (3 nhận xét).
+
+### Lương Minh Đức — 5/5 — Đi cùng bạn bè (mô phỏng)
+
+**Hợp với người thích ảnh phong cảnh**
+
+Mình thích việc dành hẳn một buổi cho Sam Chiêm, có thời gian tìm góc chụp và ngồi ngắm cảnh. Không cố ghép quá nhiều điểm nên dù có chặng xe dài, trải nghiệm vẫn thoải mái.
+
+### Nguyễn Yến Nhi — 4/5 — Đi cùng người thương (mô phỏng)
+
+**Những khoảng trời rộng rất đáng nhớ**
+
+Buổi ở thảo nguyên là điểm nhấn của chuyến đi. Đoạn đường tiếp cận cần kiên nhẫn và giày dễ đi. Mình mong phần thông tin về trung chuyển được mô tả rõ hơn ngay lúc xem tour.
+
+### Phạm Hữu Phúc — 4/5 — Đi cùng bạn bè (mô phỏng)
+
+**Chuyến đi gọn, phù hợp nhóm nhỏ**
+
+Sam Chiêm và Bản Chang đem lại hai khung cảnh khác nhau. Đồ ăn khá dễ dùng, chỗ nghỉ đáp ứng nhu cầu cơ bản. Lần sau mình muốn thêm thời gian ở hồ trước khi trở về.
+
+
 ---
 
 # TJ08 — Từ mặt hồ đến lòng núi — Ba Bể & Thẳm Phầy
 
-Một chiều làm quen Ba Bể, một ngày dành trọn cho tuyến hang Thẳm Phầy có tổ chức, một buổi sáng để hồi phục.
+Thám hiểm hang nước Thẳm Phầy kỳ bí tựa Sơn Đoòng phương Bắc cùng chuyên gia, kết hợp du ngoạn hồ Ba Bể tuyệt sắc và nghỉ ngơi homestay bản địa.
 
 Đây là tour khám phá chuyên biệt, không phải một điểm tham quan thêm vào lịch nghỉ dưỡng. Hoạt động hang chỉ đưa vào vận hành khi đơn vị chuyên môn xác nhận được phép khai thác, điều kiện nước, trang bị và nhân sự. Khung ngày hai dành riêng cho hành trình vào–ra, thời gian cụ thể phụ thuộc tuyến được duyệt; không cam kết đi hết chiều dài hang.
 
@@ -878,7 +1053,7 @@ Một chiều làm quen Ba Bể, một ngày dành trọn cho tuyến hang Thẳ
 - Trạng thái: Lịch trình đề xuất · Chưa mở bán
 - Thời lượng: 3 ngày 2 đêm
 - Tuyến: Hồ Ba Bể → Hang Thẳm Phầy
-- Phong cách: Khám phá, Trekking, Thiên nhiên
+- Phong cách: Khám phá, Trekking, Thiên nhiên, Hang động kỳ vĩ
 - Giá dự kiến: 4.590.000 ₫ – 5.590.000 ₫/người lớn
 - Điểm đón/trả: Đón và trả tại điểm hẹn trong khu vực trung tâm Thái Nguyên. Địa chỉ cụ thể được xác nhận khi chốt đoàn.
 - Lịch khởi hành: Theo yêu cầu đoàn riêng; chưa công bố ngày khởi hành cố định hoặc số chỗ còn trống.
@@ -1006,11 +1181,36 @@ Trước khi mở bán phải xác nhận bảo hiểm phù hợp phạm vi ho�
 10 tour do Trà Journey biên soạn. Nguồn dùng để đối chiếu điểm đến; tên tour, giờ, giá, dịch vụ và phối tuyến là đề xuất biên tập, chưa được nhà cung cấp xác nhận.
 
 
+## Đánh giá mô phỏng
+
+Đánh giá mô phỏng: tên người viết, điểm số và trải nghiệm đều là nội dung hư cấu để minh họa giao diện, không phải phản hồi khách hàng thực tế.
+
+Điểm trung bình mô phỏng: 4.7/5 (3 nhận xét).
+
+### Trần Nhật Minh — 5/5 — Đi cùng bạn bè (mô phỏng)
+
+**Dành riêng một ngày cho hang là lựa chọn đúng**
+
+Mình thích cách lịch trình không ghép thêm điểm sau ngày khám phá hang. Phần kiểm tra trang bị và phổ biến quy tắc làm nhóm hiểu rõ những gì sẽ tham gia. Tối về chỉ cần ăn và nghỉ.
+
+### Lê Phương Thảo — 4/5 — Nhóm yêu khám phá (mô phỏng)
+
+**Một trải nghiệm cần chuẩn bị nghiêm túc**
+
+Mình đã đọc kỹ yêu cầu thể lực nên không bị bất ngờ khi phải vận động lâu. Đội hướng dẫn giải thích rõ từng đoạn. Nếu có thêm danh sách đồ cần mang dạng checklist từ sớm thì sẽ tiện hơn.
+
+### Đặng Quốc Khánh — 5/5 — Đi cùng bạn bè (mô phỏng)
+
+**Ngày hồ nhẹ nhàng trước hành trình lớn**
+
+Buổi đi hồ giúp cả nhóm làm quen trước ngày vận động. Ở cùng một nơi hai đêm rất tiện để cất đồ và nghỉ ngơi. Mình đánh giá cao việc có giới hạn tuyến, không cố đi xa chỉ để đủ điểm.
+
+
 ---
 
 # TJ09 — Miền trà về nguồn — Từ ATK đến Ba Bể
 
-Bốn ngày nối hương trà, dấu ấn ATK, thác Khuôn Tát và không gian hồ–rừng trúc ở phía Bắc.
+Hành trình bốn ngày nối liền hương trà Tân Cương, di tích ATK Định Hóa, thác Khuôn Tát hoang sơ cùng vẻ đẹp hồ Ba Bể và rừng trúc xanh ngút ngàn.
 
 Tour dành cho người muốn cảm nhận nhiều lớp của Thái Nguyên nhưng không muốn mỗi ngày thay một chỗ ngủ. Tuyến nghỉ một đêm tại Định Hóa và hai đêm ở Ba Bể; ngày chuyển vùng có buổi sáng ngắn và phần đường dài được dành riêng. Lịch trình cân bằng câu chuyện lịch sử với những khoảng xanh để nghỉ ngơi.
 
@@ -1019,7 +1219,7 @@ Tour dành cho người muốn cảm nhận nhiều lớp của Thái Nguyên nh
 - Trạng thái: Lịch trình đề xuất · Chưa mở bán
 - Thời lượng: 4 ngày 3 đêm
 - Tuyến: Đồi chè Tân Cương → ATK Định Hóa → Thác Khuôn Tát → Hồ Ba Bể → Rừng trúc Yến Dương
-- Phong cách: Văn hóa, Thiên nhiên, Nghỉ dưỡng
+- Phong cách: Văn hóa, Thiên nhiên, Nghỉ dưỡng, Hành trình Di sản
 - Giá dự kiến: 4.690.000 ₫ – 5.590.000 ₫/người lớn
 - Điểm đón/trả: Đón và trả tại điểm hẹn trong khu vực trung tâm Thái Nguyên. Địa chỉ cụ thể được xác nhận khi chốt đoàn.
 - Lịch khởi hành: Theo yêu cầu đoàn riêng; chưa công bố ngày khởi hành cố định hoặc số chỗ còn trống.
@@ -1157,11 +1357,36 @@ Trước khi mở bán phải xác nhận bảo hiểm phù hợp phạm vi ho�
 10 tour do Trà Journey biên soạn. Nguồn dùng để đối chiếu điểm đến; tên tour, giờ, giá, dịch vụ và phối tuyến là đề xuất biên tập, chưa được nhà cung cấp xác nhận.
 
 
+## Đánh giá mô phỏng
+
+Đánh giá mô phỏng: tên người viết, điểm số và trải nghiệm đều là nội dung hư cấu để minh họa giao diện, không phải phản hồi khách hàng thực tế.
+
+Điểm trung bình mô phỏng: 4.7/5 (3 nhận xét).
+
+### Nguyễn Tú Anh — 5/5 — Đi cùng gia đình (mô phỏng)
+
+**Lịch sử và thiên nhiên kết hợp rất có duyên**
+
+Mình thích sự chuyển đổi từ vùng trà sang ATK rồi lên hồ. Mỗi nơi mang một câu chuyện riêng, không bị lặp cảm giác. Hai đêm ở Ba Bể giúp gia đình nghỉ lại đủ lâu sau chặng chuyển vùng.
+
+### Phạm Văn Long — 4/5 — Đi cùng người thương (mô phỏng)
+
+**Bốn ngày phong phú, nên chuẩn bị cho chặng xe**
+
+Lịch có những ngày chuyển vùng dài nhưng đã dành riêng thời gian, không quá vội. Mình thích phần thuyết minh ATK và rừng trúc nhất. Bữa ăn có thể đổi món nhiều hơn ở các ngày cuối.
+
+### Hoàng Mai Linh — 5/5 — Đi cùng bạn bè (mô phỏng)
+
+**Một chuyến đi có nhiều điều để kể**
+
+Nhóm mình thích cả trải nghiệm trà và buổi đi thuyền. Hướng dẫn chủ động báo kế hoạch ngày hôm sau, nên ai cũng dễ chuẩn bị. Chuyến đi cân bằng được tham quan và khoảng nghỉ.
+
+
 ---
 
 # TJ10 — Vòng cung miền xanh — Trà, thảo nguyên và Ba Bể
 
-Năm ngày qua đồi chè, thảo nguyên, hồ Bản Chang, rừng trúc và Ba Bể — mỗi nơi có một khoảng thời gian để ở lại.
+Đại hành trình năm ngày khám phá Đông Bắc: đắm chìm giữa đồi chè Tân Cương, thảo nguyên Sam Chiêm, hồ Bản Chang, rừng trúc và du ngoạn hồ Ba Bể.
 
 Đây là tour dài nhất trong bộ sưu tập, phù hợp người muốn khám phá không gian du lịch mở rộng của Thái Nguyên. Tuyến đi lần lượt từ vùng trà lên Ngân Sơn rồi chuyển sang Ba Bể, hạn chế quay lại cùng một đường chỉ để thêm điểm. Không ghép Thẳm Phầy vào lịch này để giữ nhịp trải nghiệm vừa phải và đủ khoảng nghỉ.
 
@@ -1170,7 +1395,7 @@ Năm ngày qua đồi chè, thảo nguyên, hồ Bản Chang, rừng trúc và B
 - Trạng thái: Lịch trình đề xuất · Chưa mở bán
 - Thời lượng: 5 ngày 4 đêm
 - Tuyến: Đồi chè Tân Cương → Thảo nguyên Sam Chiêm → Hồ Bản Chang → Rừng trúc Yến Dương → Hồ Ba Bể
-- Phong cách: Thiên nhiên, Nhiếp ảnh, Khám phá
+- Phong cách: Thiên nhiên, Nhiếp ảnh, Khám phá, Vòng cung Đông Bắc
 - Giá dự kiến: 5.990.000 ₫ – 7.190.000 ₫/người lớn
 - Điểm đón/trả: Đón và trả tại điểm hẹn trong khu vực trung tâm Thái Nguyên. Địa chỉ cụ thể được xác nhận khi chốt đoàn.
 - Lịch khởi hành: Theo yêu cầu đoàn riêng; chưa công bố ngày khởi hành cố định hoặc số chỗ còn trống.
@@ -1323,3 +1548,28 @@ Trước khi mở bán phải xác nhận bảo hiểm phù hợp phạm vi ho�
 - [Cục Du lịch Quốc gia Việt Nam — Ba Be Lake](https://vietnamtourism.gov.vn/en/printer/14483?type=1)
 
 10 tour do Trà Journey biên soạn. Nguồn dùng để đối chiếu điểm đến; tên tour, giờ, giá, dịch vụ và phối tuyến là đề xuất biên tập, chưa được nhà cung cấp xác nhận.
+
+
+## Đánh giá mô phỏng
+
+Đánh giá mô phỏng: tên người viết, điểm số và trải nghiệm đều là nội dung hư cấu để minh họa giao diện, không phải phản hồi khách hàng thực tế.
+
+Điểm trung bình mô phỏng: 4.7/5 (3 nhận xét).
+
+### Vũ Khánh Hòa — 5/5 — Đi cùng bạn bè (mô phỏng)
+
+**Năm ngày để thấy nhiều sắc thái của miền xanh**
+
+Mỗi chặng có một khung cảnh khác nhau, từ đồi chè đến thảo nguyên rồi mặt hồ. Việc ở hai đêm mỗi nơi giúp mình không phải liên tục đóng mở hành lý. Ngày nghỉ ở Ba Bể là phần mình thích nhất.
+
+### Trần Hải Yến — 4/5 — Đi cùng người thương (mô phỏng)
+
+**Hành trình đẹp nhưng cần dành đủ thời gian**
+
+Mình thích đi nhiều nơi nên tuyến này khá đúng ý. Có các chặng xe dài, vì vậy không nên chọn nếu chỉ muốn nghỉ ở một resort. Phần chụp ảnh tại thảo nguyên được bố trí thoải mái.
+
+### Nguyễn Anh Duy — 5/5 — Nhóm yêu nhiếp ảnh (mô phỏng)
+
+**Không phải cuộc đua qua các điểm check-in**
+
+Điểm cộng là tour không cố thêm một tuyến hang vào lịch vốn đã phong phú. Có thời gian nhìn cảnh, chụp ảnh và trò chuyện. Mình mong có thêm lựa chọn thực đơn chay rõ ràng khi đăng ký.

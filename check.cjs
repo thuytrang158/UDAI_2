@@ -3,6 +3,8 @@ const nodes=new Map(),storage=new Map();
 const document={querySelector(s){if(!nodes.has(s))nodes.set(s,{value:'',innerHTML:'',textContent:'',style:{},addEventListener(){},querySelectorAll(){return[];}});return nodes.get(s);},querySelectorAll(){return[];},addEventListener(){}};
 const ctx=vm.createContext({document,Intl,console,location:{hash:''},setTimeout,clearTimeout,localStorage:{getItem:k=>storage.get(k)??null,setItem:(k,v)=>storage.set(k,v)}});
 vm.runInContext(fs.readFileSync('dist/tours-data.js','utf8'),ctx);
+vm.runInContext(fs.readFileSync('dist/tour-reviews-data.js','utf8'),ctx);
+vm.runInContext(fs.readFileSync('dist/tour-engagement.js','utf8'),ctx);
 vm.runInContext(fs.readFileSync('dist/app.js','utf8'),ctx);
 vm.runInContext(fs.readFileSync('dist/tour-details.js','utf8'),ctx);
 const run=s=>vm.runInContext(s,ctx);
@@ -33,9 +35,11 @@ for(const t of catalogue.tours){
  assert.equal(t.itinerary.filter(d=>d.stay!=='Không lưu trú').length,t.nights,t.code+' overnight count');
  for(const d of t.itinerary){assert.ok(d.activities.length>=4);let last=0;for(const a of d.activities){const match=a.time.match(/^(\d{2}):(\d{2})–(\d{2}):(\d{2})$/);assert.ok(match,a.time);const start=+match[1]*60+(+match[2]),end=+match[3]*60+(+match[4]);assert.ok(start>=last&&end>start,t.code+' chronological activities');last=end;}}
  for(const id of t.sourceIds)assert.ok(catalogue.sources[id]?.url.startsWith('https://'));
- const html=run(`tourDetailsHTML(tours.find(t=>t.id===${t.id}))`);assert.ok(!html.includes('undefined'));assert.ok(html.includes('Lịch trình chi tiết'));assert.ok(html.includes('Ngày '+t.days));
+ assert.ok(t.stops&&t.stops.length>=2);
+ for(const s of t.stops){assert.equal(typeof s.lat,'number');assert.equal(typeof s.lng,'number');}
+ const html=run(`tourDetailsHTML(tours.find(t=>t.id===${t.id}))`);assert.ok(!html.includes('undefined'));assert.ok(html.includes('Lịch trình chi tiết'));assert.ok(html.includes('Ngày '+t.days));assert.ok(html.includes('id="tour-detail-map"'));assert.ok(html.includes('Bản đồ điểm đến'));
  const markdown=run(`tourMarkdown(tours.find(t=>t.id===${t.id}))`);assert.ok(markdown.includes(t.name));assert.ok(markdown.includes('Không bao gồm'));
 }
-assert.ok(!nodes.get('#tour-grid').innerHTML.includes('★'),'No fabricated tour ratings');
+assert.equal((nodes.get('#tour-grid').innerHTML.match(/đánh giá mô phỏng/g)||[]).length,10,'Every tour rating is labeled');
 const html=fs.readFileSync('dist/index.html','utf8');assert.ok(html.indexOf('tours-data.js')<html.indexOf('src="app.js"'));assert.ok(html.includes('tour-details.css'));assert.ok(html.includes('data/tours.json'));
 console.log('PASS: 10 complete tour records, 13-destination coverage, day/night counts, chronological schedules, no fake ratings, detail rendering and consistent JSON export.');
