@@ -29,7 +29,7 @@
             </div>
           </article>`).join('')}
         <article class="news-list-item news-destination-link">
-          <span class="news-destination-icon" aria-hidden="true">◌</span>
+          <img class="news-thumb" src="assets/tours/ho-nui-coc.jpg" alt="Mặt hồ Núi Cốc yên bình giữa núi đồi xanh" loading="lazy">
           <div class="news-item-copy">
             <p class="eyebrow">ĐIỂM ĐẾN · HỒ NÚI CỐC</p>
             <h3><a href="https://mythainguyen.vn/vi/honuicoc" target="_blank" rel="noopener">Một khoảng trời bình yên bên hồ Núi Cốc</a></h3>

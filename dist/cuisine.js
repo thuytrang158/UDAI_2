@@ -187,6 +187,12 @@
               <h3>Chậm lại để cảm nhận trọn vị</h3>
               <p>${esc(d.story.experience)}</p>
             </section>
+
+            <section class="blog-section blog-table-moment">
+              <span class="blog-section-label">05 · GỢI Ý CHO CHUYẾN ĐI</span>
+              <h3>Một khoảnh khắc ngon miệng ở địa phương</h3>
+              <p>${esc(d.story.tableMoment || '')}</p>
+            </section>
           </div>
 
           <aside class="cuisine-article-aside" aria-label="Thông tin món ăn">
