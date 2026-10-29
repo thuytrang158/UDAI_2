@@ -26,9 +26,9 @@
         const d=b.departures.list.find(x=>x.date===s.date);
         if(!d){if(isCurrent()){el.continueBooking.disabled=true;el.quote.textContent='Chọn ngày để tính dự toán.';el.info.textContent='Lịch khởi hành và chỗ trống cần được xác nhận.';}return;}
         const local=calculateDemoQuote(cfg,b,s);
+        if(isCurrent())el.continueBooking.disabled=!local.isComplete;
         if(!background&&isCurrent()){
           el.error.hidden=true;
-          el.continueBooking.disabled=true;
           el.quote.innerHTML=`${local.lineItems.map(x=>`<div><span>${esc(x.label)}</span><b>${x.amountVND===null?'Cần báo giá':money(x.amountVND)}</b></div>`).join('')}<strong>Tạm tính <span>${money(local.totalVND)}</span></strong><div><span>Đặt cọc dự kiến 30%</span><b>${money(local.depositVND)}</b></div><div><span>Còn lại</span><b>${money(local.balanceVND)}</b></div><small>Giá dự kiến; đơn vị tổ chức sẽ xác nhận trước khi chốt.</small>`;
           el.info.textContent=`${d.time} · ${b.departures.checkInBeforeMinutes} phút trước tập trung · ${b.departures.meetingPointDemo} · dự kiến về ${b.departures.estimatedReturnTime} · đang kiểm tra số chỗ…`;
         }
@@ -38,11 +38,12 @@
         if(live){
           const opt=el.date.querySelector(`option[value="${s.date}"]`);
           if(opt){opt.disabled=live.availableSeatsDemo===0;opt.textContent=`${new Intl.DateTimeFormat('vi-VN',{weekday:'short',day:'2-digit',month:'2-digit',year:'numeric',timeZone:'Asia/Ho_Chi_Minh'}).format(new Date(s.date+'T12:00:00'))} · ${d.fareClassLabel}${live.availableSeatsDemo===0?' · Cần xác nhận lịch':''}`;}
-          el.info.textContent=`${d.time} · Có mặt trước ${b.departures.checkInBeforeMinutes} phút · ${b.departures.meetingPointDemo} · Lịch và chỗ trống cần được xác nhận`;
-          el.continueBooking.disabled=live.availableSeatsDemo<s.adults+s.children+s.infants||!local.isComplete;
+          const enoughSeats=live.availableSeatsDemo>=s.adults+s.children+s.infants;
+          el.info.textContent=`${d.time} · Có mặt trước ${b.departures.checkInBeforeMinutes} phút · ${b.departures.meetingPointDemo} · Còn ${live.availableSeatsDemo} chỗ${enoughSeats?'':' · Không đủ chỗ cho số khách đã chọn; hãy giảm số khách hoặc chọn lịch khác'}`;
+          el.continueBooking.disabled=!local.isComplete;
         }
       } catch {
-        if(isCurrent()&&!background){el.info.textContent='Không kết nối được máy chủ; bạn chưa thể tiếp tục đặt tour.';el.error.hidden=false;el.error.textContent='Kết nối bị gián đoạn. Yêu cầu chưa được ghi nhận.';el.continueBooking.disabled=true;}
+        if(isCurrent()&&!background){el.info.textContent='Chưa kiểm tra được chỗ trống. Máy chủ sẽ kiểm tra lại khi bạn gửi yêu cầu.';el.error.hidden=false;el.error.textContent='Kết nối kiểm tra lịch bị gián đoạn. Bạn có thể thử đặt lại; yêu cầu chỉ được ghi nhận khi máy chủ xác nhận.';el.continueBooking.disabled=!calculateDemoQuote(cfg,b,selection()).isComplete;}
       } finally {quotePending--;}
     }
     let holdToken='',holdExpires=0,timer=null,receiptStatusPoll=null,bookingCode='',ownerToken='',working=false;
