@@ -1,3 +1,7 @@
 node_modules/
 *.tar.gz
 .preview.log
+.private/
+.env.*
+!.env.example
+.env
