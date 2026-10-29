@@ -20,11 +20,11 @@ Admin đăng nhập tại <http://127.0.0.1:4173/admin/>. Máy đã có tài kho
 Cài Git và Node.js 18 trở lên, rồi clone repo:
 
 ```sh
-git clone https://github.com/thuytrang158/travel-web.git
-cd travel-web
+git clone https://github.com/thuytrang158/UDAI_2.git
+cd UDAI_2
 ```
 
-Nếu GitHub yêu cầu quyền truy cập, đăng nhập tài khoản được cấp quyền với repo. Website chính không cần `npm install` vì không khai báo dependency npm. Tạo tài khoản admin lần đầu trước khi chạy website:
+Nếu GitHub yêu cầu quyền truy cập, đăng nhập tài khoản được cấp quyền với repo. Repo riêng tư này chứa `.env` để dùng chung cấu hình RAG/Planner; chỉ clone vào máy bạn tin cậy và giữ repo ở chế độ riêng tư. Website chính không cần `npm install` vì không khai báo dependency npm. Tạo tài khoản admin lần đầu trước khi chạy website:
 
 ```sh
 npm run admin:bootstrap
@@ -43,13 +43,13 @@ Mở <http://127.0.0.1:4173>, đăng nhập tại `/admin/`, rồi khách có th
 Website chính và chatbot có thể chạy riêng. Chatbot và AI Travel Planner cần khóa Groq; nếu clone mới chưa có `.env`, tạo từ mẫu rồi nhập khóa:
 
 ```sh
-cp .env.example .env
+if [ ! -f .env ]; then cp .env.example .env; fi
 python3 configure-groq-keys.py
 ```
 
-Không đưa khóa API lên repo công khai hoặc gửi trong tin nhắn. Repo hiện được cấu hình triển khai riêng tư; hãy giữ riêng tư nếu `.env` chứa khóa.
+Trong repo riêng tư, `.env` đã được lưu cùng mã nguồn để bản clone dùng cùng cấu hình. Nếu tạo bản sao cho repo hoặc máy khác không được cấp quyền, hãy bỏ các khóa thật khỏi `.env` hoặc thay bằng khóa riêng của máy đó. Không đưa `.env` lên repo công khai hay gửi khóa trong tin nhắn.
 
-AI Planner API chạy ở cổng 8000. Mở terminal thứ hai từ thư mục `travel-web` và cài môi trường Python (lần đầu):
+AI Planner API chạy ở cổng 8000. Mở terminal thứ hai từ thư mục gốc repo `UDAI_2` và cài môi trường Python (lần đầu):
 
 ```sh
 cd Multi-Agent-AI-Travel-Planner
@@ -133,7 +133,7 @@ Chạy `npm test` để kiểm tra quote TJ01, vòng đời hold/đơn/thanh to�
 
 ## Chatbot RAG
 
-Bong bóng **Hỏi Trà Journey** ở góc màn hình hỏi đáp về điểm đến, ẩm thực, tin tức và 10 tour trong `dist/data/rag-knowledge-base.json`. RAG và `Multi-Agent-AI-Travel-Planner` dùng chung `.env` tại thư mục gốc repo. Tệp `.env` chỉ dùng cục bộ và được Git bỏ qua; tạo từ `.env.example` khi chưa có. Không commit khóa API hoặc công khai giá trị cấu hình riêng.
+Bong bóng **Hỏi Trà Journey** ở góc màn hình hỏi đáp về điểm đến, ẩm thực, tin tức và 10 tour trong `dist/data/rag-knowledge-base.json`. RAG và `Multi-Agent-AI-Travel-Planner` dùng chung `.env` tại thư mục gốc repo. Repo `UDAI_2` là repo riêng tư và lưu `.env` cùng mã nguồn để máy được cấp quyền có thể chạy đầy đủ module. Khi dùng ở máy khác, giữ repo riêng tư hoặc cập nhật khóa trong `.env` theo cấu hình của máy đó. `.env.example` là mẫu không chứa khóa.
 
 ```sh
 python3 configure-groq-keys.py
